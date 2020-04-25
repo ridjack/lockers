@@ -1,0 +1,33 @@
+{
+	"parent": "minecraft:recipes/root",
+	"rewards":
+	{
+		"recipes": [ "betterstorage:locker" ]
+	},
+	"criteria":
+	{
+		"has_wood":
+		{
+			"trigger": "minecraft:inventory_changed",
+			"conditions":
+			{
+        		"items":
+        		[
+          			{ "tag": "minecraft:planks" }
+				]
+			}
+		},
+		"has_the_recipe":
+		{
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": { "recipe": "betterstorage:locker" }
+		}
+	},
+	"requirements":
+	[
+		[
+			"has_wood",
+			"has_the_recipe"
+		]
+	]
+}

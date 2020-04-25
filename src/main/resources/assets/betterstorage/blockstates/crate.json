@@ -1,0 +1,394 @@
+{
+	"multipart":
+	[
+		{
+			"when": { "down": "false", "east": "false", "west": "false", "north": "false", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_all", "uvlock": true }
+		},
+		{
+			"when": { "down": "false", "east": "false", "west": "false", "north": "false", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_blr", "uvlock": true }
+		},
+		{
+			"when": { "down": "false", "east": "false", "west": "false", "north": "true", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_tlr", "uvlock": true }
+		},
+		{
+			"when": { "down": "false", "east": "false", "west": "false", "north": "true", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_lr", "uvlock": true }
+		},
+		{
+			"when": { "down": "false", "east": "false", "west": "true", "north": "false", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_tbr", "uvlock": true }
+		},
+		{
+			"when": { "down": "false", "east": "false", "west": "true", "north": "false", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_br", "uvlock": true }
+		},
+		{
+			"when": { "down": "false", "east": "false", "west": "true", "north": "true", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_tr", "uvlock": true }
+		},
+		{
+			"when": { "down": "false", "east": "false", "west": "true", "north": "true", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_r", "uvlock": true }
+		},
+		{
+			"when": { "down": "false", "east": "true", "west": "false", "north": "false", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_tbl", "uvlock": true }
+		},
+		{
+			"when": { "down": "false", "east": "true", "west": "false", "north": "false", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_bl", "uvlock": true }
+		},
+		{
+			"when": { "down": "false", "east": "true", "west": "false", "north": "true", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_tl", "uvlock": true }
+		},
+		{
+			"when": { "down": "false", "east": "true", "west": "false", "north": "true", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_l", "uvlock": true }
+		},
+		{
+			"when": { "down": "false", "east": "true", "west": "true", "north": "false", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_tb", "uvlock": true }
+		},
+		{
+			"when": { "down": "false", "east": "true", "west": "true", "north": "false", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_b", "uvlock": true }
+		},
+		{
+			"when": { "down": "false", "east": "true", "west": "true", "north": "true", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_t", "uvlock": true }
+		},
+		{
+			"when": { "down": "false", "east": "true", "west": "true", "north": "true", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_none", "uvlock": true }
+		},
+
+		{
+			"when": { "up": "false", "east": "false", "west": "false", "north": "false", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_all", "uvlock": true, "x": 180 }
+		},
+		{
+			"when": { "up": "false", "east": "false", "west": "false", "north": "false", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_tlr", "uvlock": true, "x": 180 }
+		},
+		{
+			"when": { "up": "false", "east": "false", "west": "false", "north": "true", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_blr", "uvlock": true, "x": 180 }
+		},
+		{
+			"when": { "up": "false", "east": "false", "west": "false", "north": "true", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_lr", "uvlock": true, "x": 180 }
+		},
+		{
+			"when": { "up": "false", "east": "false", "west": "true", "north": "false", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_tbr", "uvlock": true, "x": 180 }
+		},
+		{
+			"when": { "up": "false", "east": "false", "west": "true", "north": "false", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_tr", "uvlock": true, "x": 180 }
+		},
+		{
+			"when": { "up": "false", "east": "false", "west": "true", "north": "true", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_br", "uvlock": true, "x": 180 }
+		},
+		{
+			"when": { "up": "false", "east": "false", "west": "true", "north": "true", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_r", "uvlock": true, "x": 180 }
+		},
+		{
+			"when": { "up": "false", "east": "true", "west": "false", "north": "false", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_tbl", "uvlock": true, "x": 180 }
+		},
+		{
+			"when": { "up": "false", "east": "true", "west": "false", "north": "false", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_tl", "uvlock": true, "x": 180 }
+		},
+		{
+			"when": { "up": "false", "east": "true", "west": "false", "north": "true", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_bl", "uvlock": true, "x": 180 }
+		},
+		{
+			"when": { "up": "false", "east": "true", "west": "false", "north": "true", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_l", "uvlock": true, "x": 180 }
+		},
+		{
+			"when": { "up": "false", "east": "true", "west": "true", "north": "false", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_tb", "uvlock": true, "x": 180 }
+		},
+		{
+			"when": { "up": "false", "east": "true", "west": "true", "north": "false", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_t", "uvlock": true, "x": 180 }
+		},
+		{
+			"when": { "up": "false", "east": "true", "west": "true", "north": "true", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_b", "uvlock": true, "x": 180 }
+		},
+		{
+			"when": { "up": "false", "east": "true", "west": "true", "north": "true", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_none", "uvlock": true, "x": 180 }
+		},
+
+		{
+			"when": { "north": "false", "up": "false", "down": "false", "east": "false", "west": "false" },
+			"apply": { "model": "betterstorage:block/crate_all", "uvlock": true, "x": 270 }
+		},
+		{
+			"when": { "north": "false", "up": "false", "down": "false", "east": "false", "west": "true" },
+			"apply": { "model": "betterstorage:block/crate_tbl", "uvlock": true, "x": 270 }
+		},
+		{
+			"when": { "north": "false", "up": "false", "down": "false", "east": "true", "west": "false" },
+			"apply": { "model": "betterstorage:block/crate_tbr", "uvlock": true, "x": 270 }
+		},
+		{
+			"when": { "north": "false", "up": "false", "down": "false", "east": "true", "west": "true" },
+			"apply": { "model": "betterstorage:block/crate_tb", "uvlock": true, "x": 270 }
+		},
+		{
+			"when": { "north": "false", "up": "false", "down": "true", "east": "false", "west": "false" },
+			"apply": { "model": "betterstorage:block/crate_tlr", "uvlock": true, "x": 270 }
+		},
+		{
+			"when": { "north": "false", "up": "false", "down": "true", "east": "false", "west": "true" },
+			"apply": { "model": "betterstorage:block/crate_tl", "uvlock": true, "x": 270 }
+		},
+		{
+			"when": { "north": "false", "up": "false", "down": "true", "east": "true", "west": "false" },
+			"apply": { "model": "betterstorage:block/crate_tr", "uvlock": true, "x": 270 }
+		},
+		{
+			"when": { "north": "false", "up": "false", "down": "true", "east": "true", "west": "true" },
+			"apply": { "model": "betterstorage:block/crate_t", "uvlock": true, "x": 270 }
+		},
+		{
+			"when": { "north": "false", "up": "true", "down": "false", "east": "false", "west": "false" },
+			"apply": { "model": "betterstorage:block/crate_blr", "uvlock": true, "x": 270 }
+		},
+		{
+			"when": { "north": "false", "up": "true", "down": "false", "east": "false", "west": "true" },
+			"apply": { "model": "betterstorage:block/crate_bl", "uvlock": true, "x": 270 }
+		},
+		{
+			"when": { "north": "false", "up": "true", "down": "false", "east": "true", "west": "false" },
+			"apply": { "model": "betterstorage:block/crate_br", "uvlock": true, "x": 270 }
+		},
+		{
+			"when": { "north": "false", "up": "true", "down": "false", "east": "true", "west": "true" },
+			"apply": { "model": "betterstorage:block/crate_b", "uvlock": true, "x": 270 }
+		},
+		{
+			"when": { "north": "false", "up": "true", "down": "true", "east": "false", "west": "false" },
+			"apply": { "model": "betterstorage:block/crate_lr", "uvlock": true, "x": 270 }
+		},
+		{
+			"when": { "north": "false", "up": "true", "down": "true", "east": "false", "west": "true" },
+			"apply": { "model": "betterstorage:block/crate_l", "uvlock": true, "x": 270 }
+		},
+		{
+			"when": { "north": "false", "up": "true", "down": "true", "east": "true", "west": "false" },
+			"apply": { "model": "betterstorage:block/crate_r", "uvlock": true, "x": 270 }
+		},
+		{
+			"when": { "north": "false", "up": "true", "down": "true", "east": "true", "west": "true" },
+			"apply": { "model": "betterstorage:block/crate_none", "uvlock": true, "x": 270 }
+		},
+
+		{
+			"when": { "south": "false", "up": "false", "down": "false", "east": "false", "west": "false" },
+			"apply": { "model": "betterstorage:block/crate_all", "uvlock": true, "x": 90 }
+		},
+		{
+			"when": { "south": "false", "up": "false", "down": "false", "east": "false", "west": "true" },
+			"apply": { "model": "betterstorage:block/crate_tbr", "uvlock": true, "x": 90 }
+		},
+		{
+			"when": { "south": "false", "up": "false", "down": "false", "east": "true", "west": "false" },
+			"apply": { "model": "betterstorage:block/crate_tbl", "uvlock": true, "x": 90 }
+		},
+		{
+			"when": { "south": "false", "up": "false", "down": "false", "east": "true", "west": "true" },
+			"apply": { "model": "betterstorage:block/crate_tb", "uvlock": true, "x": 90 }
+		},
+		{
+			"when": { "south": "false", "up": "false", "down": "true", "east": "false", "west": "false" },
+			"apply": { "model": "betterstorage:block/crate_tlr", "uvlock": true, "x": 90 }
+		},
+		{
+			"when": { "south": "false", "up": "false", "down": "true", "east": "false", "west": "true" },
+			"apply": { "model": "betterstorage:block/crate_tr", "uvlock": true, "x": 90 }
+		},
+		{
+			"when": { "south": "false", "up": "false", "down": "true", "east": "true", "west": "false" },
+			"apply": { "model": "betterstorage:block/crate_tl", "uvlock": true, "x": 90 }
+		},
+		{
+			"when": { "south": "false", "up": "false", "down": "true", "east": "true", "west": "true" },
+			"apply": { "model": "betterstorage:block/crate_t", "uvlock": true, "x": 90 }
+		},
+		{
+			"when": { "south": "false", "up": "true", "down": "false", "east": "false", "west": "false" },
+			"apply": { "model": "betterstorage:block/crate_blr", "uvlock": true, "x": 90 }
+		},
+		{
+			"when": { "south": "false", "up": "true", "down": "false", "east": "false", "west": "true" },
+			"apply": { "model": "betterstorage:block/crate_br", "uvlock": true, "x": 90 }
+		},
+		{
+			"when": { "south": "false", "up": "true", "down": "false", "east": "true", "west": "false" },
+			"apply": { "model": "betterstorage:block/crate_bl", "uvlock": true, "x": 90 }
+		},
+		{
+			"when": { "south": "false", "up": "true", "down": "false", "east": "true", "west": "true" },
+			"apply": { "model": "betterstorage:block/crate_b", "uvlock": true, "x": 90 }
+		},
+		{
+			"when": { "south": "false", "up": "true", "down": "true", "east": "false", "west": "false" },
+			"apply": { "model": "betterstorage:block/crate_lr", "uvlock": true, "x": 90 }
+		},
+		{
+			"when": { "south": "false", "up": "true", "down": "true", "east": "false", "west": "true" },
+			"apply": { "model": "betterstorage:block/crate_r", "uvlock": true, "x": 90 }
+		},
+		{
+			"when": { "south": "false", "up": "true", "down": "true", "east": "true", "west": "false" },
+			"apply": { "model": "betterstorage:block/crate_l", "uvlock": true, "x": 90 }
+		},
+		{
+			"when": { "south": "false", "up": "true", "down": "true", "east": "true", "west": "true" },
+			"apply": { "model": "betterstorage:block/crate_none", "uvlock": true, "x": 90 }
+		},
+
+		{
+			"when": { "east": "false", "up": "false", "down": "false", "north": "false", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_all", "uvlock": true, "x": 90, "y": 270 }
+		},
+		{
+			"when": { "east": "false", "up": "false", "down": "false", "north": "false", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_tbr", "uvlock": true, "x": 90, "y": 270 }
+		},
+		{
+			"when": { "east": "false", "up": "false", "down": "false", "north": "true", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_tbl", "uvlock": true, "x": 90, "y": 270 }
+		},
+		{
+			"when": { "east": "false", "up": "false", "down": "false", "north": "true", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_tb", "uvlock": true, "x": 90, "y": 270 }
+		},
+		{
+			"when": { "east": "false", "up": "false", "down": "true", "north": "false", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_tlr", "uvlock": true, "x": 90, "y": 270 }
+		},
+		{
+			"when": { "east": "false", "up": "false", "down": "true", "north": "false", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_tr", "uvlock": true, "x": 90, "y": 270 }
+		},
+		{
+			"when": { "east": "false", "up": "false", "down": "true", "north": "true", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_tl", "uvlock": true, "x": 90, "y": 270 }
+		},
+		{
+			"when": { "east": "false", "up": "false", "down": "true", "north": "true", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_t", "uvlock": true, "x": 90, "y": 270 }
+		},
+		{
+			"when": { "east": "false", "up": "true", "down": "false", "north": "false", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_blr", "uvlock": true, "x": 90, "y": 270 }
+		},
+		{
+			"when": { "east": "false", "up": "true", "down": "false", "north": "false", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_br", "uvlock": true, "x": 90, "y": 270 }
+		},
+		{
+			"when": { "east": "false", "up": "true", "down": "false", "north": "true", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_bl", "uvlock": true, "x": 90, "y": 270 }
+		},
+		{
+			"when": { "east": "false", "up": "true", "down": "false", "north": "true", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_b", "uvlock": true, "x": 90, "y": 270 }
+		},
+		{
+			"when": { "east": "false", "up": "true", "down": "true", "north": "false", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_lr", "uvlock": true, "x": 90, "y": 270 }
+		},
+		{
+			"when": { "east": "false", "up": "true", "down": "true", "north": "false", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_r", "uvlock": true, "x": 90, "y": 270 }
+		},
+		{
+			"when": { "east": "false", "up": "true", "down": "true", "north": "true", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_l", "uvlock": true, "x": 90, "y": 270 }
+		},
+		{
+			"when": { "east": "false", "up": "true", "down": "true", "north": "true", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_none", "uvlock": true, "x": 90, "y": 270 }
+		},
+
+		{
+			"when": { "west": "false", "up": "false", "down": "false", "north": "false", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_all", "uvlock": true, "x": 90, "y": 90 }
+		},
+		{
+			"when": { "west": "false", "up": "false", "down": "false", "north": "false", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_tbl", "uvlock": true, "x": 90, "y": 90 }
+		},
+		{
+			"when": { "west": "false", "up": "false", "down": "false", "north": "true", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_tbr", "uvlock": true, "x": 90, "y": 90 }
+		},
+		{
+			"when": { "west": "false", "up": "false", "down": "false", "north": "true", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_tb", "uvlock": true, "x": 90, "y": 90 }
+		},
+		{
+			"when": { "west": "false", "up": "false", "down": "true", "north": "false", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_tlr", "uvlock": true, "x": 90, "y": 90 }
+		},
+		{
+			"when": { "west": "false", "up": "false", "down": "true", "north": "false", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_tl", "uvlock": true, "x": 90, "y": 90 }
+		},
+		{
+			"when": { "west": "false", "up": "false", "down": "true", "north": "true", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_tr", "uvlock": true, "x": 90, "y": 90 }
+		},
+		{
+			"when": { "west": "false", "up": "false", "down": "true", "north": "true", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_t", "uvlock": true, "x": 90, "y": 90 }
+		},
+		{
+			"when": { "west": "false", "up": "true", "down": "false", "north": "false", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_blr", "uvlock": true, "x": 90, "y": 90 }
+		},
+		{
+			"when": { "west": "false", "up": "true", "down": "false", "north": "false", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_bl", "uvlock": true, "x": 90, "y": 90 }
+		},
+		{
+			"when": { "west": "false", "up": "true", "down": "false", "north": "true", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_br", "uvlock": true, "x": 90, "y": 90 }
+		},
+		{
+			"when": { "west": "false", "up": "true", "down": "false", "north": "true", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_b", "uvlock": true, "x": 90, "y": 90 }
+		},
+		{
+			"when": { "west": "false", "up": "true", "down": "true", "north": "false", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_lr", "uvlock": true, "x": 90, "y": 90 }
+		},
+		{
+			"when": { "west": "false", "up": "true", "down": "true", "north": "false", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_l", "uvlock": true, "x": 90, "y": 90 }
+		},
+		{
+			"when": { "west": "false", "up": "true", "down": "true", "north": "true", "south": "false" },
+			"apply": { "model": "betterstorage:block/crate_r", "uvlock": true, "x": 90, "y": 90 }
+		},
+		{
+			"when": { "west": "false", "up": "true", "down": "true", "north": "true", "south": "true" },
+			"apply": { "model": "betterstorage:block/crate_none", "uvlock": true, "x": 90, "y": 90 }
+		}
+	]
+}

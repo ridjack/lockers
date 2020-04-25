@@ -1,0 +1,15 @@
+io.github.tehstoneman.betterstorage
+io.github.tehstoneman.betterstorage.api
+io.github.tehstoneman.betterstorage.client
+io.github.tehstoneman.betterstorage.client.gui
+io.github.tehstoneman.betterstorage.client.renderer
+io.github.tehstoneman.betterstorage.client.renderer.tileentity
+io.github.tehstoneman.betterstorage.client.renderer.tileentity.model
+io.github.tehstoneman.betterstorage.common.block
+io.github.tehstoneman.betterstorage.common.inventory
+io.github.tehstoneman.betterstorage.common.item
+io.github.tehstoneman.betterstorage.common.tileentity
+io.github.tehstoneman.betterstorage.config
+io.github.tehstoneman.betterstorage.network
+io.github.tehstoneman.betterstorage.proxy
+io.github.tehstoneman.betterstorage.util

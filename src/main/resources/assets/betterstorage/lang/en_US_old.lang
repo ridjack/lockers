@@ -1,0 +1,140 @@
+# Containers
+container.betterstorage.crafting_station=Crafting Station
+container.betterstorage.cardboard_box=Cardboard Box
+container.betterstorage.crate=Storage Crate
+container.betterstorage.crate.capacity=%% Capacity
+container.betterstorage.keyring=Keyring
+container.betterstorage.locker=Locker
+container.betterstorage.lockerLarge=Large Locker
+container.betterstorage.reinforced_chest=Reinforced Chest
+container.betterstorage.reinforced_chest_large=Large Reinforced Chest
+container.betterstorage.reinforced_locker=Reinforced Locker
+container.betterstorage.reinforced_locker_large=Large Reinforced Locker
+container.betterstorage.thaumiumChest=Thaumium Chest
+container.betterstorage.thaumiumChestLarge=Large Thaumium Chest
+
+# Enchantments
+enchantment.betterstorage.key.lockpicking=Lockpicking
+enchantment.betterstorage.key.morphing=Morphing
+enchantment.betterstorage.key.unlocking=Unlocking
+enchantment.betterstorage.lock.persistance=Persistance
+enchantment.betterstorage.lock.security=Security
+enchantment.betterstorage.lock.shock=Shock
+enchantment.betterstorage.lock.trigger=Trigger
+
+# Entities
+
+# Items
+item.betterstorage.bucketSlime.name=Slime in a Bucket
+item.betterstorage.cardboard_axe.name=Cardboard Axe
+item.betterstorage.cardboard_boots.name=Cardboard Boots
+item.betterstorage.cardboard_chestplate.name=Cardboard Chestplate
+item.betterstorage.cardboard_helmet.name=Cardboard Helmet
+item.betterstorage.cardboard_hoe.name=Cardboard Hoe
+item.betterstorage.cardboard_leggings.name=Cardboard Leggings
+item.betterstorage.cardboard_pickaxe.name=Cardboard Pickaxe
+item.betterstorage.cardboard_sheet.name=Cardboard Sheet
+item.betterstorage.cardboard_shovel.name=Cardboard Shovel
+item.betterstorage.cardboard_sword.name=Cardboard Sword
+item.betterstorage.drinkingHelmet.name=Drinking Helmet
+item.betterstorage.key.name=Key
+item.betterstorage.keyring.name=Keyring
+item.betterstorage.lock.name=Lock
+item.betterstorage.master_key.name=Master Key
+
+# Creative tab
+itemGroup.betterstorage=BetterStorage
+
+# Keys
+key.betterstorage.drinkingHelmet=[BetterStorage] Use Drinking Helmet
+
+# Container materials
+material.betterstorage.iron=Iron
+material.betterstorage.gold=Gold
+material.betterstorage.diamond=Diamond
+material.betterstorage.emerald=Emerald
+material.betterstorage.copper=Copper
+material.betterstorage.tin=Tin
+material.betterstorage.silver=Silver
+material.betterstorage.steel=Steel
+material.betterstorage.zinc=Zinc
+
+# Thaumcraft
+tc.research_name.betterstorage.magicstorage=Magical Storage
+tc.research_text.betterstorage.magicstorage=Enchanting your containers
+
+# Blocks
+tile.betterstorage.crafting_station.name=Crafting Station
+tile.betterstorage.cardboard_box.name=Cardboard Box
+tile.betterstorage.cardboard_box_colored.black.name=Black Cardboard Box
+tile.betterstorage.cardboard_box_colored.blue.name=Blue Cardboard Box
+tile.betterstorage.cardboard_box_colored.brown.name=Brown Cardboard Box
+tile.betterstorage.cardboard_box_colored.cyan.name=Cyan Cardboard Box
+tile.betterstorage.cardboard_box_colored.gray.name=Gray Cardboard Box
+tile.betterstorage.cardboard_box_colored.green.name=Green Cardboard Box
+tile.betterstorage.cardboard_box_colored.lightBlue.name=Light Blue Cardboard Box
+tile.betterstorage.cardboard_box_colored.lime.name=Lime Cardboard Box
+tile.betterstorage.cardboard_box_colored.magenta.name=Magenta Cardboard Box
+tile.betterstorage.cardboard_box_colored.orange.name=Orange Cardboard Box
+tile.betterstorage.cardboard_box_colored.pink.name=Pink Cardboard Box
+tile.betterstorage.cardboard_box_colored.purple.name=Purple Cardboard Box
+tile.betterstorage.cardboard_box_colored.red.name=Red Cardboard Box
+tile.betterstorage.cardboard_box_colored.silver.name=Light Gray Cardboard Box
+tile.betterstorage.cardboard_box_colored.white.name=White Cardboard Box
+tile.betterstorage.cardboard_box_colored.yellow.name=Yellow Cardboard Box
+tile.betterstorage.crate.name=Storage Crate
+tile.betterstorage.flintBlock.name=Block of Flint
+tile.betterstorage.locker.name=Locker
+tile.betterstorage.reinforced_chest.name=Reinforced Chest
+tile.betterstorage.reinforced_chest.name.full=Reinforced %s Chest
+tile.betterstorage.reinforced_locker.name=Reinforced Locker
+tile.betterstorage.reinforced_locker.name.full=Reinforced %s Locker
+tile.betterstorage.thaumiumChest.name=Thaumium Chest
+tile.betterstorage.lockableDoor.name=Locked Iron Door
+tile.betterstorage.present.name=Present
+
+# Tooltips
+tooltip.betterstorage.bucketSlime.more.1=1 more effect ...
+tooltip.betterstorage.bucketSlime.more.x=%X% more effects ...
+tooltip.betterstorage.cardboardBox.useHint=One-time use portable storage.
+tooltip.betterstorage.cardboardBox.useHint.reusable=Reusable portable storage.
+tooltip.betterstorage.cardboardBox.uses=Remaining uses: %s
+tooltip.betterstorage.cardboardBox.containsItems=Contains items.
+tooltip.betterstorage.drinkingHelmet.craftHint=Craft with a potion on either side.
+tooltip.betterstorage.drinkingHelmet.useHint=Press %KEY% to take a sip.
+tooltip.betterstorage.drinkingHelmet.uses=Remaining uses: %USES%
+
+# Config
+config.betterstorage.category.item=Items
+config.betterstorage.category.item.tooltip=Change whether a certain Item is active.
+config.betterstorage.category.tile=Blocks
+config.betterstorage.category.tile.tooltip=Change whether a certain Block is active.
+config.betterstorage.category.enchantment=Enchantments
+config.betterstorage.category.enchantment.tooltip=Change the IDs for Enchantments
+
+config.betterstorage.general.reinforcedColumns=Reinforced Columns
+config.betterstorage.general.reinforcedColumns.tooltip=Number of columns in reinforced chests and lockers. Valid values are 9, 11 and 13.
+config.betterstorage.general.enableCrateInventoryInterface=Crate Inventory Interface
+config.betterstorage.general.enableCrateInventoryInterface.tooltip=If enabled, exposes a special block view of crates, so items can be moved in and out by automated systems.
+config.betterstorage.general.enableCrateStorageInterface=Crate Storage Interface
+config.betterstorage.general.enableCrateStorageInterface.tooltip=If disabled, prevents mods from using storage crates' special storage interface (like Applied Energistics).
+config.betterstorage.general.crateDebugMessages=Crate Debug Messages
+config.betterstorage.general.crateDebugMessages.tooltip=If enabled, logs crate related debug messages (like them saving).
+config.betterstorage.general.cardboardBoxRows=Cardboard Box Rows
+config.betterstorage.general.cardboardBoxRows.tooltip=Number of rows in cardboard boxes.
+config.betterstorage.general.cardboardBoxUses=Cardboard Box Uses
+config.betterstorage.general.cardboardBoxUses.tooltip=Number of times cardboard boxes can be picked up with items before they break. Use 0 for infinite uses.
+config.betterstorage.general.cardboardBoxShowContents=Cardboard Box Show Contents
+config.betterstorage.general.cardboardBoxShowContents.tooltip=If disabled, doesn't show cardboard box contents in their tooltips.
+config.betterstorage.general.enableStationAutoCrafting=Crafting Station Auto Crafting
+config.betterstorage.general.enableStationAutoCrafting.tooltip=If enabled, automated systems can pull out of crafting stations and therefore auto-craft items.
+config.betterstorage.general.stationAutocraftDelay=Auto Crafting Delay
+config.betterstorage.general.stationAutocraftDelay.tooltip=Delay between recipes being autocrafted in the crafting station, in ticks.
+config.betterstorage.general.lockBreakable=Breakable Locks
+config.betterstorage.general.lockBreakable.tooltip=If disabled, turns off the ability to break locks off of locked containers using tools.
+config.betterstorage.general.enableHelpTooltips=Tooltips
+config.betterstorage.general.enableHelpTooltips.tooltip=If enabled, shows tooltips on some items to help players who're new to the mod.
+config.betterstorage.general.enableWarningMessages=Debug Messages
+config.betterstorage.general.enableWarningMessages.tooltip=If disabled, prevents certain warning messages from being logged to the console.
+config.betterstorage.general.enableChristmasEvent=Christmas Event
+config.betterstorage.general.enableChristmasEvent.tooltip=If disabled, prevents the christmas event from happening. You monster.

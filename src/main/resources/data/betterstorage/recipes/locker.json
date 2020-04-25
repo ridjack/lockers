@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "betterstorage:locker",
+	"ingredients":
+	[
+		{ "tag": "forge:chests/wooden" },
+		{ "tag": "forge:chests/wooden" },
+		{ "tag": "minecraft:wooden_doors" }
+	],
+	"result": { "item": "betterstorage:locker", "count": 2 }
+}

@@ -1,0 +1,76 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "normal": "betterstorage:entity/locker/normal"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Body",
+            "from": [ 0, 0, 0 ], 
+            "to": [ 16, 16, 14 ], 
+            "faces": {
+                "north": { "texture": "#normal", "uv": [ 11, 8, 15, 12 ] },
+                "east": { "texture": "#normal", "uv": [ 7.5, 8, 11, 12 ] },
+                "west": { "texture": "#normal", "uv": [ 0, 8, 3.5, 12 ] },
+                "up": { "texture": "#normal", "uv": [ 3.5, 4.5, 7.5, 8 ] },
+                "down": { "texture": "#normal", "uv": [ 7.5, 4.5, 11.5, 8 ] }
+            }
+        },
+        {
+            "name": "Door",
+            "from": [ 0, 0, 13 ], 
+            "to": [ 16, 16, 15 ], 
+            "faces": {
+                "east": { "texture": "#normal", "uv": [ 7.5, 0.5, 8, 4.5 ] },
+                "south": { "texture": "#normal", "uv": [ 8, 0.5, 12, 4.5 ] },
+                "west": { "texture": "#normal", "uv": [ 3, 0.5, 3.5, 4.5 ] },
+                "up": { "texture": "#normal", "uv": [ 3.5, 0, 7.5, 0.5 ] },
+                "down": { "texture": "#normal", "uv": [ 7.5, 0, 11.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Latch",
+            "from": [ 12, 6, 15 ], 
+            "to": [ 14, 10, 16 ], 
+            "faces": {
+                "east": { "texture": "#normal", "uv": [ 0.75, 0.25, 1, 1.25 ] },
+                "south": { "texture": "#normal", "uv": [ 0.25, 0.25, 0.75, 1.25 ] },
+                "west": { "texture": "#normal", "uv": [ 0, 0.25, 0.25, 1.25 ] },
+                "up": { "texture": "#normal", "uv": [ 0.25, 0, 0.75, 0.25 ] },
+                "down": { "texture": "#normal", "uv": [ 0.75, 0, 1.25, 0.25 ] }
+            }
+        }
+    ]
+}

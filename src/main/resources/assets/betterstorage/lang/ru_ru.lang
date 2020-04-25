@@ -1,0 +1,124 @@
+# Containers
+container.betterstorage.cardboard_box=Картонная коробка
+container.betterstorage.crate.capacity=Вместимость %%
+container.betterstorage.crate=Ящик для хранения
+container.betterstorage.keyring=Связка ключей
+container.betterstorage.locker=Запираемый шкаф
+container.betterstorage.locker_large=Большой запираемый шкаф
+container.betterstorage.reinforced_chest=Укреплённый сундук
+container.betterstorage.reinforced_chest_large=Большой укреплённый сундук
+container.betterstorage.reinforced_locker=Укреплённый запираемый шкаф
+container.betterstorage.reinforced_locker_large=Большой укреплённый запираемый шкаф
+
+# Enchantments
+enchantment.betterstorage.key.lockpicking=Взлом
+enchantment.betterstorage.key.lockpicking.tooltip=Включить или отключить зачарование взлома.
+enchantment.betterstorage.key.morphing=Трансформация
+enchantment.betterstorage.key.morphing.tooltip=Включить или отключить зачарование трансформации.
+enchantment.betterstorage.key.unlocking=Разблокировка
+enchantment.betterstorage.key.unlocking.tooltip=Включить или отключить зачарование разблокировки.
+enchantment.betterstorage.lock.persistance=Устойчивость
+enchantment.betterstorage.lock.persistance.tooltip=Включить или отключить зачарование устойчивости.
+enchantment.betterstorage.lock.security=Безопасность
+enchantment.betterstorage.lock.security.tooltip=Включить или отключить зачарование безопасности.
+enchantment.betterstorage.lock.shock=Шок
+enchantment.betterstorage.lock.shock.tooltip=Включить или отключить зачарование шока.
+enchantment.betterstorage.lock.trigger=Триггер
+enchantment.betterstorage.lock.trigger.tooltip=Включить или отключить зачарование триггера.
+
+# Creative tab
+itemGroup.betterstorage=Better Storage Too
+
+# Container materials
+material.betterstorage.copper=медный
+material.betterstorage.diamond=алмазный
+material.betterstorage.emerald=изумрудный
+material.betterstorage.gold=золотой
+material.betterstorage.iron=железный
+material.betterstorage.silver=серебряный
+material.betterstorage.steel=стальной
+material.betterstorage.tin=оловянный
+material.betterstorage.zinc=цинковый
+
+# Blocks
+tile.betterstorage.cardboard_box.name=Картонная коробка
+tile.betterstorage.cardboard_box.name.tooltip=Включить или отключить картонные коробки.
+tile.betterstorage.crate.name=Ящик для хранения
+tile.betterstorage.crate.name.tooltip=Включить или отключить ящики для хранения.
+tile.betterstorage.flint_block.name=Блок кремния
+tile.betterstorage.flint_block.name.tooltip=Включить или отключить блок кремния.
+tile.betterstorage.lockable_door.name=Запираемая железная дверь
+tile.betterstorage.lockable_door.name.tooltip=Включить или отключить запираемые железные двери.\n(Требуется включение клавиши)
+tile.betterstorage.locker.name=Запираемый шкаф
+tile.betterstorage.locker.name.tooltip=Включить или отключить запираемые шкафы.
+tile.betterstorage.reinforced_chest.name=Укреплённый сундук
+tile.betterstorage.reinforced_chest.name.full=Укреплённый %s сундук
+tile.betterstorage.reinforced_chest.name.tooltip=Включить или отключить укреплённые сундуки.
+tile.betterstorage.reinforced_locker.name=Укреплённый запираемый шкаф
+tile.betterstorage.reinforced_locker.name.full=Укреплённый %s запираемый шкаф
+tile.betterstorage.reinforced_locker.name.tooltip=Включить или отключить укреплённые запираемые шкафы.\n(Нет эффекта, если запираемые шкафы отключены)
+
+# Items
+item.betterstorage.bucket.slime.name=Слизь в ведре
+item.betterstorage.bucket.slime.name.tooltip=Включить или отключить слизь в ведре.
+item.betterstorage.cardboard_axe.name=Картонный топор
+item.betterstorage.cardboard_axe.name.tooltip=Включить или отключить картонный топор.
+item.betterstorage.cardboard_boots.name=Картонные ботинки
+item.betterstorage.cardboard_boots.name.tooltip=Включить или отключить картонные ботинки.
+item.betterstorage.cardboard_chestplate.name=Картонный нагрудник
+item.betterstorage.cardboard_chestplate.name.tooltip=Включить или отключить картонный нагрудник.
+item.betterstorage.cardboard_helmet.name=Картонный шлем
+item.betterstorage.cardboard_helmet.name.tooltip=Включить или отключить картонный шлем.
+item.betterstorage.cardboard_hoe.name=Картонная мотыга
+item.betterstorage.cardboard_hoe.name.tooltip=Включить или отключить картонную мотыгу.
+item.betterstorage.cardboard_leggings.name=Картонные поножи
+item.betterstorage.cardboard_leggings.name.tooltip=Включить или отключить картонные поножи.
+item.betterstorage.cardboard_pickaxe.name=Картонная кирка
+item.betterstorage.cardboard_pickaxe.name.tooltip=Включить или отключить картонную кирку.
+item.betterstorage.cardboard_sheet.name=Картонный лист
+item.betterstorage.cardboard_sheet.name.tooltip=Включить или отключить картонные листы.
+item.betterstorage.cardboard_shovel.name=Картонная лопата
+item.betterstorage.cardboard_shovel.name.tooltip=Включить или отключить картонную лопату.
+item.betterstorage.cardboard_sword.name=Картонный меч
+item.betterstorage.cardboard_sword.name.tooltip=Включить или отключить картонный меч.
+item.betterstorage.key.name=Ключ
+item.betterstorage.key.name.tooltip=Включить или отключить ключи.
+item.betterstorage.keyring.name=Связка ключей
+item.betterstorage.keyring.name.tooltip=Включить или отключить связки ключей.\n(Требуется включение клавиши)
+item.betterstorage.lock.name=Замок
+item.betterstorage.lock.name.tooltip=Включить или отключить замки.\n(Требуется включение клавиши)
+item.betterstorage.master_key.name=Отмычка
+item.betterstorage.master_key.name.tooltip=Включить или отключить отмычки.\n(Требуется включение клавиши)
+
+# Tooltips
+tooltip.betterstorage.bucket.slime.contains=Содержит: %s
+tooltip.betterstorage.cardboardBox.containsItems=Содержит предметы.
+tooltip.betterstorage.cardboardBox.plusMore=... плюс %s больше.
+tooltip.betterstorage.cardboardBox.useHint.reusable=Многоразовое портативное хранение.
+tooltip.betterstorage.cardboardBox.useHint=Одноразовое использование портативного хранения.
+tooltip.betterstorage.cardboardBox.uses=Осталось использований: %s
+
+# Config
+config.betterstorage.category.block=Блоки
+config.betterstorage.category.block.tooltip=Изменение активности определенного блока.
+config.betterstorage.category.item=Предметы
+config.betterstorage.category.item.tooltip=Изменение активности определенного предмета.
+config.betterstorage.category.enchantment=Зачарования
+config.betterstorage.category.enchantment.tooltip=Изменение активности определенных зачарований.
+
+config.betterstorage.general.cardboardBoxRows=Ряды в картонной коробке
+config.betterstorage.general.cardboardBoxRows.tooltip=Число рядов в картонных коробках.
+config.betterstorage.general.cardboardBoxShowContents=Содержимое картонной коробки
+config.betterstorage.general.cardboardBoxShowContents.tooltip=Если выключено, содержимое картонной коробки не показывается при наведении.
+config.betterstorage.general.cardboardBoxUses=Количество использований картонной коробки
+config.betterstorage.general.cardboardBoxUses.tooltip=Максимальное количество использований картонной коробки. Используйте 0 для неограниченного количества.
+config.betterstorage.general.enableCrateInventoryInterface=Интерфейс инвентаря ящика
+config.betterstorage.general.enableCrateInventoryInterface.tooltip=Если включен, предоставляет специальный вид блока ящикам, поэтому предметы могут быть помещены внутрь и вытащены автоматизированными системами.
+config.betterstorage.general.enableHelpTooltips=Подсказки
+config.betterstorage.general.enableHelpTooltips.tooltip=Если включены, подсказки показываются на некоторых предметах, чтобы помочь игрокам, которые впервые играют с этим модом.
+config.betterstorage.general.enableWarningMessages=Отладочные сообщения
+config.betterstorage.general.enableWarningMessages.tooltip=Если отключены, предупреждающие сообщения не записываются в консоль.
+config.betterstorage.general.lockBreakable=Ломаемые замки
+config.betterstorage.general.lockBreakable.tooltip=Если отключено, запрещает ломать замки инструментами.
+config.betterstorage.general.reinforcedColumns=Укреплённые столбики
+config.betterstorage.general.reinforcedColumns.tooltip=Число столбиков в укреплённых сундуках и шкафах. Доступные значения 9, 11 и 13.

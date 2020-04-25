@@ -1,0 +1,17 @@
+{
+    "parent": "block/block",
+    "textures":
+    {
+    	"all": "betterstorage:block/crate/blr",
+    	"particle": "betterstorage:block/crate/blr"
+    },
+    "elements":
+	[{
+		"from": [ 0, 0, 0 ],
+		"to": [ 16, 1, 16 ],
+		"faces":
+		{
+			"down":		{ "texture": "#all", "cullface": "down" }
+		}
+	}]
+}
