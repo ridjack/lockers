@@ -1,9 +1,9 @@
 {
     "textures": {
-        "particle": "betterstorage:block/glass_tank_cap",
-        "side": "betterstorage:block/glass_tank_top",
-        "end": "betterstorage:block/glass_tank_cap",
-        "black": "betterstorage:black"
+        "particle": "lockers:block/glass_tank_cap",
+        "side": "lockers:block/glass_tank_top",
+        "end": "lockers:block/glass_tank_cap",
+        "black": "lockers:black"
     },
     "elements": [
         {

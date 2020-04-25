@@ -1,0 +1,142 @@
+# Containers
+container.lockers.craftingStation=Poste de Fabrication
+container.lockers.backpack=Sac à Dos
+container.lockers.cardboardBox=Boite en carton
+container.lockers.crate=Caisse de stockage
+container.lockers.enderBackpack=Sac à Dos de l'Ender
+container.lockers.keyring=Porte-clés
+container.lockers.locker=Casier
+container.lockers.lockerLarge=Grand Casier
+container.lockers.reinforcedChest=Coffre renforcé
+container.lockers.reinforcedChestLarge=Grand Coffre renforcé
+container.lockers.reinforcedLocker=Casier renforcé
+container.lockers.reinforcedLockerLarge=Grand Casier renforcé
+container.lockers.thaumcraftBackpack=Sac à dos du Thaumaturge
+container.lockers.thaumiumChest=Coffre en Thaumium
+container.lockers.thaumiumChestLarge=Grand Coffre en Thaumium
+
+# Enchantments
+enchantment.lockers.key.lockpicking=Crochetage
+enchantment.lockers.key.morphing=Morphing
+enchantment.lockers.key.unlocking=Déverrouillage
+enchantment.lockers.lock.persistance=Persistance
+enchantment.lockers.lock.security=Sécurité
+enchantment.lockers.lock.shock=Choc
+enchantment.lockers.lock.trigger=Déclencher
+
+# Entities
+entity.lockers.Frienderman.name=Enderman
+
+# Items
+item.lockers.bucketSlime.name=Slime dans un seau
+item.lockers.cardboardAxe.name=Hache en carton
+item.lockers.cardboardBoots.name=Bottes en carton
+item.lockers.cardboardChestplate.name=Plastron en carton
+item.lockers.cardboardHelmet.name=Casque en carton
+item.lockers.cardboardHoe.name=Houe en carton
+item.lockers.cardboardLeggings.name=Jambières en carton
+item.lockers.cardboardPickaxe.name=Pioche en carton
+item.lockers.cardboardSheet.name=Feuille en carton
+item.lockers.cardboardShovel.name=Pelle en carton
+item.lockers.cardboardSword.name=Épée en carton
+item.lockers.drinkingHelmet.name=Casque d'hydratation
+item.lockers.key.name=Clé
+item.lockers.keyring.name=Porte-clés
+item.lockers.lock.name=Cadenas
+item.lockers.masterKey.name=Passe-Partout
+
+# Creative tab
+itemGroup.lockers=lockers
+
+# Keys
+key.lockers.backpackOpen=[lockers] Ouvrir le sac à dos Backpack
+key.lockers.drinkingHelmet=[lockers] Utiliser le Casque d'hydratation
+
+# Container materials
+material.lockers.iron=Fer
+material.lockers.gold=Or
+material.lockers.diamond=Diamant
+material.lockers.emerald=Émeraude
+material.lockers.copper=Cuivre
+material.lockers.tin=Étain
+material.lockers.silver=Argent
+material.lockers.steel=Acier
+material.lockers.zinc=Zinc
+
+# Thaumcraft
+tc.research_name.lockers.magicstorage=Stockage magique
+tc.research_text.lockers.magicstorage=Enchanter vos conteneurs
+tc.research_page.lockers.magicstorage.1=Infuser un sac à dos avec de la magie et des matériaux de nature magique afin d'augmenter sa capaicté et la durabilité du stockage. Les items à l'interieur ayant l'enchantement réparation pourront toujours se réparer tout seul mais ce sera plus lent.<BR>Une chose semblable est possible en lançant ensemble un coffre en fer renforcé et un tas de thaumium permetant ainsi d'obtenir un coffre plus dur permetant également de contenir plus d'items.
+
+# Blocks
+tile.lockers.craftingStation.name=Poste de Fabrication
+tile.lockers.armorStand.name=Porte Armure
+tile.lockers.backpack.cantEquip.backpack=Vous êtes déjà équipé d'un sac à dos
+tile.lockers.backpack.cantEquip.chestplate=Vous ne pouvez pas vous équiper d'un sac à dos tout en portant un plastron
+tile.lockers.backpack.name=Sac à dos
+tile.lockers.cardboardBox.name=Boîte en carton
+tile.lockers.crate.name=Caisse de stockage
+tile.lockers.enderBackpack.name=Sac à Dos de l'Ender
+tile.lockers.flintBlock.name=Bloc de silex
+tile.lockers.locker.name=Casier
+tile.lockers.reinforcedChest.name=Coffre renforcé
+tile.lockers.reinforcedChest.name.full=Coffre renforcé en %MATERIAL%
+tile.lockers.reinforcedLocker.name=Casier renforcé
+tile.lockers.reinforcedLocker.name.full=Casier renforcé en  %MATERIAL%
+tile.lockers.thaumcraftBackpack.name=Sac à dos du Thaumaturge
+tile.lockers.thaumiumChest.name=Coffre en Thaumium
+tile.lockers.lockableDoor.name=Porte en Fer Verouillée
+
+# Tooltips
+tooltip.lockers.backpack.bound=Sac à Dos lié.
+tooltip.lockers.backpack.containsItems=Items contenu.
+tooltip.lockers.backpack.equipHint=Placer le puis casser le#tout en restant en sneak #pour l'équiper.
+tooltip.lockers.backpack.equipHint.extended=Accroupi puis casser le pour l'équiper#Accroupi et clic droit sur le sol#avec une main vide #pour desequiper.
+tooltip.lockers.backpack.openHint=Appuyer sur %KEY% pour l'ouvrir quand il est equipé.
+tooltip.lockers.backpack.unequipHint=Accroupi et clic droit sur le sol#avec une main vide pour desequiper.
+tooltip.lockers.backpack.unequipHint.extended=%INFO% Accroupi et clic droit sur le sol#avec une main vide pour desequiper.
+tooltip.lockers.backpack.used=Actuellement utilisé par un joueur.
+tooltip.lockers.bucketSlime.more.1=1 effet en plus ...
+tooltip.lockers.bucketSlime.more.x=%X% effets en plus ...
+tooltip.lockers.cardboardBox.useHint=Stocakge portable utilisable une fois.
+tooltip.lockers.cardboardBox.useHint.reusable=Stockage portable réutilisable.
+tooltip.lockers.drinkingHelmet.craftHint=Fabricable avec une potion de chaque côté.
+tooltip.lockers.drinkingHelmet.useHint=Appuyez sur %KEY% pour en prendre une gorgée.
+tooltip.lockers.drinkingHelmet.uses=Utilisations restantes : %USES%
+
+# Config
+config.lockers.category.item=Items
+config.lockers.category.item.tooltip=Changer si un certain item est actif.
+config.lockers.category.tile=Blocs
+config.lockers.category.tile.tooltip=Changer si un certain bloc est actif.
+config.lockers.category.enchantment=Enchantements
+config.lockers.category.enchantment.tooltip=Changer les ID des enchantements
+
+config.lockers.general.reinforcedColumns=Colonnes dans les coffres renforcés
+config.lockers.general.reinforcedColumns.tooltip=Nombre de colonnes dans les coffres et les armoires renforcées. Les valeurs valides sont 9, 11 et 13.
+config.lockers.general.enableCrateInventoryInterface=Interface de l'inventaire de caisse
+config.lockers.general.enableCrateInventoryInterface.tooltip=Si elle est activée, expose une vue particulière du bloc de caisses, de sorte que les éléments peuvent être déplacés dans et par des systèmes automatisés.
+config.lockers.general.enableCrateStorageInterface=Interface de la Caisse de stockage
+config.lockers.general.enableCrateStorageInterface.tooltipSi désactivé, empêche les mods d'utiliser l'interface de stockage spécial de caisses de stockage (comme Applied Energistics).
+config.lockers.general.backpackChestplate=Sac à Dos et Plastron
+config.lockers.general.backpackChestplate.tooltip=Si désactivé, sacs à dos ne prennent pas le slot d'armure du plastron du joueur.
+config.lockers.general.backpackRows=Colonnes dans les Sac à Dos
+config.lockers.general.backpackRows.tooltip=Nombre de lignes dans l'inventaire du sac à dos.
+config.lockers.general.enableBackpackOpen=Ouverture du Sac à Dos
+config.lockers.general.enableBackpackOpen.tooltip=Permettre aux sacs à dos équipés d'être ouvert avec une touche.
+config.lockers.general.enableBackpackInteraction=Interaction avec le Sac à Dos
+config.lockers.general.enableBackpackInteraction.tooltip=Permettre aux sacs à dos équipés d'être ouvert par d'autres joueurs en cliquant dessus.
+config.lockers.general.dropBackpackOnDeath=Drop du Sac à Dos
+config.lockers.general.dropBackpackOnDeath.tooltip=Si activé, fait droper un sac à dos aux lieu de répandre les items autour.
+config.lockers.general.cardboardBoxRows=Colonnes dans les boites en carton
+config.lockers.general.cardboardBoxRows.tooltip=Nombre de lignes dans les boîtes en carton.
+config.lockers.general.cardboardBoxReusable=Boite en carton reutilisable
+config.lockers.general.cardboardBoxReusable.tooltip=Si elle est activée, des boîtes en carton peuvent être déplacés indéfiniment, au lieu d'une seule fois.
+config.lockers.general.enableStationAutoCrafting=Poste de Fabrication et fabrication automatique
+config.lockers.general.enableStationAutoCrafting.tooltip=Si elle est activée, les systèmes automatisés peuvent sortir des stations d'artisanat et donc les items auto fabriqué.
+config.lockers.general.stationAutocraftDelay=Delais de fabrication automatique
+config.lockers.general.stationAutocraftDelay.tooltip=Délai entre recettes étant auto frabriqué dans la station de l'artisanat, en ticks.
+config.lockers.general.enableHelpTooltips=Les info-bulles
+config.lockers.general.enableHelpTooltips.tooltip=Si elle est activée, montre les info-bulles sur certains éléments pour aider les joueurs qui sont nouveaux sur le mod.
+config.lockers.general.enableWarningMessages=Messages de débogage
+config.lockers.general.enableWarningMessages.tooltip=Si désactivé, empêche certains messages d'avertissement d'être écrit dans la console.

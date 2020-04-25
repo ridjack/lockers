@@ -1,0 +1,123 @@
+# Containers
+container.lockers.cardboard_box=纸箱
+container.lockers.crate.capacity=%% 容量
+container.lockers.crate=储物箱
+container.lockers.locker=储物柜
+container.lockers.locker_large=大型储物柜
+container.lockers.reinforced_chest=强化箱子
+container.lockers.reinforced_chest_large=大型强化箱子
+container.lockers.reinforced_locker=强化储物柜
+container.lockers.reinforced_locker_large=大型强化储物柜
+
+# Enchantments
+enchantment.lockers.key.lockpicking=撬锁钥匙
+enchantment.lockers.key.lockpicking.tooltip=启用或禁用‘撬锁钥匙’附魔。
+enchantment.lockers.key.morphing=匙齿变形
+enchantment.lockers.key.morphing.tooltip=启用或禁用‘匙齿变形’附魔。
+enchantment.lockers.key.unlocking=解锁钥匙
+enchantment.lockers.key.unlocking.tooltip=启用或禁用‘解锁钥匙’附魔。
+enchantment.lockers.lock.persistance=防爆锁
+enchantment.lockers.lock.persistance.tooltip=启用或禁用‘防爆锁’附魔。
+enchantment.lockers.lock.security=安全锁
+enchantment.lockers.lock.security.tooltip=启用或禁用‘安全锁’附魔。
+enchantment.lockers.lock.shock=电击锁
+enchantment.lockers.lock.shock.tooltip=启用或禁用‘电击锁’附魔。
+enchantment.lockers.lock.trigger=报信锁
+enchantment.lockers.lock.trigger.tooltip=启用或禁用‘报信锁’附魔。
+
+# Creative tab
+itemGroup.lockers=更好存储
+
+# Container materials
+material.lockers.copper=铜
+material.lockers.diamond=钻石
+material.lockers.emerald=绿宝石
+material.lockers.gold=金
+material.lockers.iron=铁
+material.lockers.silver=银
+material.lockers.steel=钢
+material.lockers.tin=锡
+material.lockers.zinc=锌
+
+# Blocks
+tile.lockers.cardboard_box.name=纸箱
+tile.lockers.cardboard_box.name.tooltip=启用或禁用纸箱。
+tile.lockers.crate.name=储物箱
+tile.lockers.crate.name.tooltip=启用或禁用储物箱。
+tile.lockers.flint_block.name=燧石块
+tile.lockers.flint_block.name.tooltip=启用或禁用燧石块
+tile.lockers.lockable_door.name=铁门（带锁）
+tile.lockers.lockable_door.name.tooltip=启用或禁用带锁的铁门。\n（需要启用钥匙）
+tile.lockers.locker.name=储物柜
+tile.lockers.locker.name.tooltip=启用或禁用储物柜。
+tile.lockers.reinforced_chest.name=强化箱子
+tile.lockers.reinforced_chest.name.full=强化 %s 箱子
+tile.lockers.reinforced_chest.name.tooltip=启用或禁用强化箱子。
+tile.lockers.reinforced_locker.name=强化储物柜
+tile.lockers.reinforced_locker.name.full=强化 %s 储物柜
+tile.lockers.reinforced_locker.name.tooltip=启用或禁用强化储物柜。\n（如果储物柜被禁用则其也无效）
+
+# Items
+item.lockers.bucket.slime.name=史莱姆桶
+item.lockers.bucket.slime.name.tooltip=启用或禁用史莱姆桶。
+item.lockers.cardboard_axe.name=纸板斧
+item.lockers.cardboard_axe.name.tooltip=启用或禁用纸板斧。
+item.lockers.cardboard_boots.name=纸板靴子
+item.lockers.cardboard_boots.name.tooltip=启用或禁用纸板靴子。
+item.lockers.cardboard_chestplate.name=纸板胸甲
+item.lockers.cardboard_chestplate.name.tooltip=启用或禁用纸板胸甲。
+item.lockers.cardboard_helmet.name=纸板头盔
+item.lockers.cardboard_helmet.name.tooltip=启用或禁用纸板头盔。
+item.lockers.cardboard_hoe.name=纸板锄
+item.lockers.cardboard_hoe.name.tooltip=启用或禁用纸板锄。
+item.lockers.cardboard_leggings.name=纸板护腿
+item.lockers.cardboard_leggings.name.tooltip=启用或禁用纸板护腿。
+item.lockers.cardboard_pickaxe.name=纸板镐
+item.lockers.cardboard_pickaxe.name.tooltip=启用或禁用纸板镐。
+item.lockers.cardboard_sheet.name=纸箱板
+item.lockers.cardboard_sheet.name.tooltip=启用或禁用纸箱板。
+item.lockers.cardboard_shovel.name=纸板铲
+item.lockers.cardboard_shovel.name.tooltip=启用或禁用纸板铲。
+item.lockers.cardboard_sword.name=纸板剑
+item.lockers.cardboard_sword.name.tooltip=启用或禁用纸板剑。
+item.lockers.key.name=钥匙
+item.lockers.key.name.tooltip=启用或禁用钥匙。
+item.lockers.keyring.name=钥匙链
+item.lockers.keyring.name.tooltip=启用或禁用钥匙链。\n（需要启用钥匙）
+item.lockers.lock.name=锁
+item.lockers.lock.name.tooltip=启用或禁用锁。\n（需要启用钥匙）
+item.lockers.master_key.name=万能钥匙
+item.lockers.master_key.name.tooltip=启用或禁用万能钥匙。\n（需要启用钥匙）
+
+# Tooltips
+tooltip.lockers.bucket.slime.contains=包含： %s
+tooltip.lockers.cardboardBox.containsItems=包含物品
+tooltip.lockers.cardboardBox.plusMore=...还包含 %s
+tooltip.lockers.cardboardBox.useHint.reusable=可重复使用的储物容器
+tooltip.lockers.cardboardBox.useHint=仅一次性携带的储物容器
+tooltip.lockers.cardboardBox.uses=剩余使用次数： %s
+
+# Config
+config.lockers.category.block=方块
+config.lockers.category.block.tooltip=切换某种方块是否激活。
+config.lockers.category.item=物品
+config.lockers.category.item.tooltip=切换某种物品是否激活。
+config.lockers.category.enchantment=附魔
+config.lockers.category.enchantment.tooltip=变更附魔id
+
+config.lockers.general.cardboardBoxRows=纸箱行数
+config.lockers.general.cardboardBoxRows.tooltip=纸箱内物品栏行数
+config.lockers.general.cardboardBoxShowContents=纸箱提示内容
+config.lockers.general.cardboardBoxShowContents.tooltip=如果禁用，则不会在进行提示内容。
+config.lockers.general.cardboardBoxUses=纸箱使用次数
+config.lockers.general.cardboardBoxUses.tooltip=纸箱在破损前可以使用的次数，设置0即可无限使用。
+config.lockers.general.enableCrateInventoryInterface=仓储货箱物品栏界面
+config.lockers.general.enableCrateInventoryInterface.tooltip=启用后会显露出一个特殊观察方块，通过它能够实现自动输入输出物品。
+config.lockers.general.enableHelpTooltips=提示
+config.lockers.general.enableHelpTooltips.tooltip=启用后在物品下显示信息帮助新玩家了解用法。
+config.lockers.general.enableWarningMessages=调试信息
+config.lockers.general.enableWarningMessages.tooltip=启用后禁止某些信息显示到控制台中。
+config.lockers.general.lockBreakable=锁的开关
+config.lockers.general.lockBreakable.tooltip=如果禁用，则无法使用工具来开启锁。
+config.lockers.general.reinforcedColumns=强化箱子列数
+config.lockers.general.reinforcedColumns.tooltip=强化箱子内物品栏行数，有效值为9,11以及13。

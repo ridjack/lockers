@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "": { "model": "lockers:block/locker" }
+    }
+}

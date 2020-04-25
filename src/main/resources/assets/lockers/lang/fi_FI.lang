@@ -1,0 +1,87 @@
+# Containers
+container.lockers.backpack=Reppu
+container.lockers.cardboardBox=Pahvilaatikko
+container.lockers.crate=Säilytyslaatikko
+container.lockers.enderBackpack=Äärireppu
+container.lockers.keyring=Avaimenperä
+container.lockers.locker=Lokero
+container.lockers.lockerLarge=Iso Lokero
+container.lockers.reinforcedChest=Vahvistettu Arkku
+container.lockers.reinforcedChestLarge=Iso Vahvistettu Arkku
+container.lockers.reinforcedLocker=Vahvistettu Lokero
+container.lockers.reinforcedLockerLarge=Iso Vahvistettu Lokero
+container.lockers.thaumcraftBackpack=Thaumaturgen Reppu
+container.lockers.thaumiumChest=Thaumium Arkku
+container.lockers.thaumiumChestLarge=Iso Thaumium Arkku
+
+# Enchantments
+enchantment.lockers.key.lockpicking=Tiirikointi
+enchantment.lockers.key.morphing=Muodonmuutos
+enchantment.lockers.key.unlocking=Avaaminen
+enchantment.lockers.lock.persistance=Pysyvyys
+enchantment.lockers.lock.security=Turvallisuus
+enchantment.lockers.lock.shock=Shokki
+enchantment.lockers.lock.trigger=Laukaisin
+
+# Entities
+entity.lockers.Frienderman.name=Ääreläinen
+
+# Items
+item.lockers.cardboardAxe.name=Pahvikirves
+item.lockers.cardboardBoots.name=Pahvikengät
+item.lockers.cardboardChestplate.name=Pahvipanssari
+item.lockers.cardboardHelmet.name=Pahvikypärä
+item.lockers.cardboardHoe.name=Pahvikuokka
+item.lockers.cardboardLeggings.name=Pahvihousut
+item.lockers.cardboardPickaxe.name=Pahvihakku
+item.lockers.cardboardSheet.name=Pahviarkki
+item.lockers.cardboardShovel.name=Pahvilapio
+item.lockers.cardboardSword.name=Pahvimiekka
+item.lockers.drinkingHelmet.name=Juomakypärä
+item.lockers.key.name=Avain
+item.lockers.keyring.name=Avaimenperä
+item.lockers.lock.name=Lukko
+item.lockers.masterKey.name=Yleisavain
+
+# Creative tab
+itemGroup.lockers=lockers
+
+# Container materials
+material.lockers.iron=Rauta
+material.lockers.gold=Kulta
+material.lockers.diamond=Timantti
+material.lockers.emerald=Smaragdi
+material.lockers.copper=Kupari
+material.lockers.tin=Tina
+material.lockers.silver=Hopea
+material.lockers.zinc=Sinkki
+
+# Thaumcraft
+tc.research_name.lockers.magicstorage=Maaginen Varasto
+tc.research_text.lockers.magicstorage=Lumoa Säiliösi
+tc.research_page.lockers.magicstorage.1=Hauduttamalla reppusi taialla ja materiaaleilla maagisesta luonnosta lisää sen kestävyyttä ja säilöntätilaa. Päivityksen ansiosta, se sallii lumouksia paremmin, mukaan lukien korjaus lumouksen. Kun repussa on korjaus, tavarat sisällä voivat myös korjaantua hitaammalla tahdilla.<BR>Samankaltainen on myös mahdollista vahvistetulla rauta arkulla ja kasalla thaumiumia, mikä johtaa kestävämpään arkkuun, joka voi säilöä enemmän tavaraa.
+
+# Blocks
+tile.lockers.armorStand.name=Haarniska jalusta
+tile.lockers.backpack.name=Reppu
+tile.lockers.cardboardBox.name=Pahvilaatikko
+tile.lockers.crate.name=Säilytyslaatikko
+tile.lockers.enderBackpack.name=Äärireppu
+tile.lockers.locker.name=Lokero
+tile.lockers.reinforcedChest.name=Vahvistettu Arkku
+tile.lockers.reinforcedChest.name.full=Vahvistettu %MATERIAL% Arkku
+tile.lockers.reinforcedLocker.name=Vahvistettu Lokero
+tile.lockers.reinforcedLocker.name.full=Vahvistettu %MATERIAL% Lokero
+tile.lockers.thaumcraftBackpack.name=Thaumaturgen Reppu
+tile.lockers.thaumiumChest.name=Thaumium Arkku
+
+# Tooltips
+tooltip.lockers.backpack.bound=Sidottu reppu.
+tooltip.lockers.backpack.containsItems=Sisältää tavaroita.
+tooltip.lockers.backpack.equipHint=Laita maahan ja riko#kun kyyristyt pukeaksesi.
+tooltip.lockers.backpack.openHint=Paina %KEY% avataksesi puettuna.
+tooltip.lockers.backpack.unequipHint=Kyyristy ja oikea-klikkaa maata#tyhjällä kädellä riisuaksesi.
+tooltip.lockers.backpack.unequipHint.extended=%INFO% Kyyristy ja oikea-klikkaa#maata tyhjällä kädellä riisuaksesi.
+tooltip.lockers.backpack.used=Juuri nyt pelaajan käyttämänä.
+tooltip.lockers.drinkingHelmet.useHint=Paina %KEY% ottaaksesi hörpyn.
+tooltip.lockers.drinkingHelmet.uses=Jäljelläolevia käyttökertoja: %USES%

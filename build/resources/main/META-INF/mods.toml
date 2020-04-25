@@ -1,17 +1,17 @@
 modLoader="javafml"
 loaderVersion="[28,)"
-issueTrackerURL="https://github.com/TehStoneMan/BetterStorageToo/issues"
+issueTrackerURL="https://github.com/TehStoneMan/lockersToo/issues"
 
 [[mods]]
-modId="betterstorage"
+modId="lockers"
 version="1.15.2-5.0.1.0"
-displayName="BetterStorageToo"
-updateJSONURL="http://tehstoneman.github.io/betterstorage.json"
-displayURL="http://minecraft.curseforge.com/projects/betterstoragetoo"
-authors="TehStoneMan, copygirl, Vic Nightfall"
-description='''Adds more storage related blocks and items to the game.'''
+displayName="Lockers"
+updateJSONURL="https://github.com/ridjack/lockers"
+displayURL="https://github.com/ridjack/lockers"
+authors="ridjack, TehStoneMan, copygirl, Vic Nightfall"
+description='''Adds lockers. Like vertical chests. That's it.'''
 
-[[dependencies.betterstorage]]
+[[dependencies.lockers]]
     modId="forge"
     mandatory=true
     versionRange="[28.1.56,)"

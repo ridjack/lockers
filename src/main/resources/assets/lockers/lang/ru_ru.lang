@@ -1,0 +1,124 @@
+# Containers
+container.lockers.cardboard_box=Картонная коробка
+container.lockers.crate.capacity=Вместимость %%
+container.lockers.crate=Ящик для хранения
+container.lockers.keyring=Связка ключей
+container.lockers.locker=Запираемый шкаф
+container.lockers.locker_large=Большой запираемый шкаф
+container.lockers.reinforced_chest=Укреплённый сундук
+container.lockers.reinforced_chest_large=Большой укреплённый сундук
+container.lockers.reinforced_locker=Укреплённый запираемый шкаф
+container.lockers.reinforced_locker_large=Большой укреплённый запираемый шкаф
+
+# Enchantments
+enchantment.lockers.key.lockpicking=Взлом
+enchantment.lockers.key.lockpicking.tooltip=Включить или отключить зачарование взлома.
+enchantment.lockers.key.morphing=Трансформация
+enchantment.lockers.key.morphing.tooltip=Включить или отключить зачарование трансформации.
+enchantment.lockers.key.unlocking=Разблокировка
+enchantment.lockers.key.unlocking.tooltip=Включить или отключить зачарование разблокировки.
+enchantment.lockers.lock.persistance=Устойчивость
+enchantment.lockers.lock.persistance.tooltip=Включить или отключить зачарование устойчивости.
+enchantment.lockers.lock.security=Безопасность
+enchantment.lockers.lock.security.tooltip=Включить или отключить зачарование безопасности.
+enchantment.lockers.lock.shock=Шок
+enchantment.lockers.lock.shock.tooltip=Включить или отключить зачарование шока.
+enchantment.lockers.lock.trigger=Триггер
+enchantment.lockers.lock.trigger.tooltip=Включить или отключить зачарование триггера.
+
+# Creative tab
+itemGroup.lockers=Better Storage Too
+
+# Container materials
+material.lockers.copper=медный
+material.lockers.diamond=алмазный
+material.lockers.emerald=изумрудный
+material.lockers.gold=золотой
+material.lockers.iron=железный
+material.lockers.silver=серебряный
+material.lockers.steel=стальной
+material.lockers.tin=оловянный
+material.lockers.zinc=цинковый
+
+# Blocks
+tile.lockers.cardboard_box.name=Картонная коробка
+tile.lockers.cardboard_box.name.tooltip=Включить или отключить картонные коробки.
+tile.lockers.crate.name=Ящик для хранения
+tile.lockers.crate.name.tooltip=Включить или отключить ящики для хранения.
+tile.lockers.flint_block.name=Блок кремния
+tile.lockers.flint_block.name.tooltip=Включить или отключить блок кремния.
+tile.lockers.lockable_door.name=Запираемая железная дверь
+tile.lockers.lockable_door.name.tooltip=Включить или отключить запираемые железные двери.\n(Требуется включение клавиши)
+tile.lockers.locker.name=Запираемый шкаф
+tile.lockers.locker.name.tooltip=Включить или отключить запираемые шкафы.
+tile.lockers.reinforced_chest.name=Укреплённый сундук
+tile.lockers.reinforced_chest.name.full=Укреплённый %s сундук
+tile.lockers.reinforced_chest.name.tooltip=Включить или отключить укреплённые сундуки.
+tile.lockers.reinforced_locker.name=Укреплённый запираемый шкаф
+tile.lockers.reinforced_locker.name.full=Укреплённый %s запираемый шкаф
+tile.lockers.reinforced_locker.name.tooltip=Включить или отключить укреплённые запираемые шкафы.\n(Нет эффекта, если запираемые шкафы отключены)
+
+# Items
+item.lockers.bucket.slime.name=Слизь в ведре
+item.lockers.bucket.slime.name.tooltip=Включить или отключить слизь в ведре.
+item.lockers.cardboard_axe.name=Картонный топор
+item.lockers.cardboard_axe.name.tooltip=Включить или отключить картонный топор.
+item.lockers.cardboard_boots.name=Картонные ботинки
+item.lockers.cardboard_boots.name.tooltip=Включить или отключить картонные ботинки.
+item.lockers.cardboard_chestplate.name=Картонный нагрудник
+item.lockers.cardboard_chestplate.name.tooltip=Включить или отключить картонный нагрудник.
+item.lockers.cardboard_helmet.name=Картонный шлем
+item.lockers.cardboard_helmet.name.tooltip=Включить или отключить картонный шлем.
+item.lockers.cardboard_hoe.name=Картонная мотыга
+item.lockers.cardboard_hoe.name.tooltip=Включить или отключить картонную мотыгу.
+item.lockers.cardboard_leggings.name=Картонные поножи
+item.lockers.cardboard_leggings.name.tooltip=Включить или отключить картонные поножи.
+item.lockers.cardboard_pickaxe.name=Картонная кирка
+item.lockers.cardboard_pickaxe.name.tooltip=Включить или отключить картонную кирку.
+item.lockers.cardboard_sheet.name=Картонный лист
+item.lockers.cardboard_sheet.name.tooltip=Включить или отключить картонные листы.
+item.lockers.cardboard_shovel.name=Картонная лопата
+item.lockers.cardboard_shovel.name.tooltip=Включить или отключить картонную лопату.
+item.lockers.cardboard_sword.name=Картонный меч
+item.lockers.cardboard_sword.name.tooltip=Включить или отключить картонный меч.
+item.lockers.key.name=Ключ
+item.lockers.key.name.tooltip=Включить или отключить ключи.
+item.lockers.keyring.name=Связка ключей
+item.lockers.keyring.name.tooltip=Включить или отключить связки ключей.\n(Требуется включение клавиши)
+item.lockers.lock.name=Замок
+item.lockers.lock.name.tooltip=Включить или отключить замки.\n(Требуется включение клавиши)
+item.lockers.master_key.name=Отмычка
+item.lockers.master_key.name.tooltip=Включить или отключить отмычки.\n(Требуется включение клавиши)
+
+# Tooltips
+tooltip.lockers.bucket.slime.contains=Содержит: %s
+tooltip.lockers.cardboardBox.containsItems=Содержит предметы.
+tooltip.lockers.cardboardBox.plusMore=... плюс %s больше.
+tooltip.lockers.cardboardBox.useHint.reusable=Многоразовое портативное хранение.
+tooltip.lockers.cardboardBox.useHint=Одноразовое использование портативного хранения.
+tooltip.lockers.cardboardBox.uses=Осталось использований: %s
+
+# Config
+config.lockers.category.block=Блоки
+config.lockers.category.block.tooltip=Изменение активности определенного блока.
+config.lockers.category.item=Предметы
+config.lockers.category.item.tooltip=Изменение активности определенного предмета.
+config.lockers.category.enchantment=Зачарования
+config.lockers.category.enchantment.tooltip=Изменение активности определенных зачарований.
+
+config.lockers.general.cardboardBoxRows=Ряды в картонной коробке
+config.lockers.general.cardboardBoxRows.tooltip=Число рядов в картонных коробках.
+config.lockers.general.cardboardBoxShowContents=Содержимое картонной коробки
+config.lockers.general.cardboardBoxShowContents.tooltip=Если выключено, содержимое картонной коробки не показывается при наведении.
+config.lockers.general.cardboardBoxUses=Количество использований картонной коробки
+config.lockers.general.cardboardBoxUses.tooltip=Максимальное количество использований картонной коробки. Используйте 0 для неограниченного количества.
+config.lockers.general.enableCrateInventoryInterface=Интерфейс инвентаря ящика
+config.lockers.general.enableCrateInventoryInterface.tooltip=Если включен, предоставляет специальный вид блока ящикам, поэтому предметы могут быть помещены внутрь и вытащены автоматизированными системами.
+config.lockers.general.enableHelpTooltips=Подсказки
+config.lockers.general.enableHelpTooltips.tooltip=Если включены, подсказки показываются на некоторых предметах, чтобы помочь игрокам, которые впервые играют с этим модом.
+config.lockers.general.enableWarningMessages=Отладочные сообщения
+config.lockers.general.enableWarningMessages.tooltip=Если отключены, предупреждающие сообщения не записываются в консоль.
+config.lockers.general.lockBreakable=Ломаемые замки
+config.lockers.general.lockBreakable.tooltip=Если отключено, запрещает ломать замки инструментами.
+config.lockers.general.reinforcedColumns=Укреплённые столбики
+config.lockers.general.reinforcedColumns.tooltip=Число столбиков в укреплённых сундуках и шкафах. Доступные значения 9, 11 и 13.

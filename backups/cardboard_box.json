@@ -1,9 +1,9 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "particle": "betterstorage:block/cardboard_box_side",
-        "side": "betterstorage:block/cardboard_box_side",
-        "end": "betterstorage:block/cardboard_box"
+        "particle": "lockers:block/cardboard_box_side",
+        "side": "lockers:block/cardboard_box_side",
+        "end": "lockers:block/cardboard_box"
     },
     "elements": [
         {

@@ -1,0 +1,89 @@
+# Containers
+container.lockers.locker=Schließfach
+
+# Items
+
+# Creative tab
+itemGroup.lockers=lockers
+
+# Keys
+key.lockers.backpackOpen=[lockers] Rucksack öffnen
+key.lockers.drinkingHelmet=[lockers] Trinkhelm benutzen
+
+# Thaumcraft
+tc.research_name.lockers.magicstorage=Magischer Speicher
+tc.research_text.lockers.magicstorage=Verzaubere deine Behälter
+tc.research_page.lockers.magicstorage.1=Einen Rucksack mit Magie und Materialien magischer Natur zu bearbeiten, wird seine Haltbarkeit und Kapazität erhöhen. Items in ihm sind, wenn sie die Reparieren-Verzauberung besitzen, weiterhin fähig, sich zu reparieren, jedoch langsamer.<BR>Etwas ähnliches geschieht, wenn du eine Verstärkte Eisentruhe und eine Menge Thaumium zusammenschmeißt; entstehen wird eine Truhe, die sowohl haltbarer ist als auch mehr Items speichern kann.
+
+# Blocks
+tile.lockers.craftingStation.name=Handwerksstation
+tile.lockers.armorStand.name=Rüstungsstand
+tile.lockers.backpack.cantEquip.backpack=Du trägst bereits einen Rucksack
+tile.lockers.backpack.cantEquip.chestplate=Du kannst keinen Rucksack ausrüsten, während du einen Brustpanzer trägst
+tile.lockers.backpack.name=Rucksack
+tile.lockers.cardboardBox.name=Pappkarton
+tile.lockers.crate.name=Lagerkiste
+tile.lockers.enderBackpack.name=Ender-Rucksack
+tile.lockers.flintBlock.name=Feuersteinblock
+tile.lockers.locker.name=Schließfach
+tile.lockers.reinforcedChest.name=Verstärkte Truhe
+tile.lockers.reinforcedChest.name.full=Verstärkte %MATERIAL%truhe
+tile.lockers.reinforcedLocker.name=Verstärktes Schließfach
+tile.lockers.reinforcedLocker.name.full=Verstärktes %MATERIAL%schließfach
+tile.lockers.thaumcraftBackpack.name=Rucksack des Thaumaturgen
+tile.lockers.thaumiumChest.name=Thaumium-Truhe
+tile.lockers.lockableDoor.name=Verschlossene Eisentür
+
+# Tooltips
+tooltip.lockers.backpack.bound=Gebunden.
+tooltip.lockers.backpack.containsItems=Nicht leer.
+tooltip.lockers.backpack.equipHint=Platziere und bau ab, während#du schleichst, um auszurüsten.
+tooltip.lockers.backpack.equipHint.extended=Schleiche und bau ab, um auszurüsten.#Schleiche und rechtsklicke Boden#mit leerer Hand, um abzusetzen.
+tooltip.lockers.backpack.openHint=Drücke %KEY%, um Rucksack zu öffnen.
+tooltip.lockers.backpack.unequipHint=Schleiche und rechtsklicke Boden#mit leerer Hand, um abzusetzen.
+tooltip.lockers.backpack.unequipHint.extended=%INFO% Schleiche und rechtsklicke#Boden mit leerer Hand, um abzusetzen.
+tooltip.lockers.backpack.used=Wird gerade von einem Spieler benutzt.
+tooltip.lockers.bucketSlime.more.1=1 ein weiterer Effekt ...
+tooltip.lockers.bucketSlime.more.x=%X% weitere Effekte ...
+tooltip.lockers.cardboardBox.useHint=Transportabler Einweg-Speicher.
+tooltip.lockers.cardboardBox.useHint.reusable=Transportabler wiederverwendbarer Speicher.
+tooltip.lockers.drinkingHelmet.craftHint=Verbinde ihn mit 2 Tränken.
+tooltip.lockers.drinkingHelmet.useHint=Drücke %KEY%, um ein Schlückchen zu trinken.
+tooltip.lockers.drinkingHelmet.uses=Verbleibende Nutzungen: %USES%
+
+# Config
+config.lockers.category.item=Items
+config.lockers.category.item.tooltip=Change whether a certain Item is active.
+config.lockers.category.tile=Blocks
+config.lockers.category.tile.tooltip=Change whether a certain Block is active.
+config.lockers.category.enchantment=Enchantments
+config.lockers.category.enchantment.tooltip=Change the IDs for Enchantments
+
+config.lockers.general.reinforcedColumns=Reinforced Columns
+config.lockers.general.reinforcedColumns.tooltip=Number of columns in reinforced chests and lockers. Valid values are 9, 11 and 13.
+config.lockers.general.enableCrateInventoryInterface=Crate Inventory Interface
+config.lockers.general.enableCrateInventoryInterface.tooltip=If enabled, exposes a special block view of crates, so items can be moved in and out by automated systems.
+config.lockers.general.enableCrateStorageInterface=Crate Storage Interface
+config.lockers.general.enableCrateStorageInterface.tooltip=If disabled, prevents mods from using storage crates' special storage interface (like Applied Energistics).
+config.lockers.general.backpackChestplate=Backpack Chestplate
+config.lockers.general.backpackChestplate.tooltip=If disabled, backpacks don't take up the player's chestplate armor slot.
+config.lockers.general.backpackRows=Backpack Rows
+config.lockers.general.backpackRows.tooltip=Number of rows in backpacks.
+config.lockers.general.enableBackpackOpen=Backpack Open
+config.lockers.general.enableBackpackOpen.tooltip=Allows equipped backpacks to be opened by pressing a key.
+config.lockers.general.enableBackpackInteraction=Backpack Interaction
+config.lockers.general.enableBackpackInteraction.tooltip=Allows equipped backpacks to be opened by other players by right clicking them.
+config.lockers.general.dropBackpackOnDeath=Backpack Drop
+config.lockers.general.dropBackpackOnDeath.tooltip=If enabled, drops backpacks as block instead of spilling the items around.
+config.lockers.general.cardboardBoxRows=Cardboard Box Rows
+config.lockers.general.cardboardBoxRows.tooltip=Number of rows in cardboard boxes.
+config.lockers.general.cardboardBoxReusable=Cardboard Box Reuseability
+config.lockers.general.cardboardBoxReusable.tooltip=If enabled, cardboard boxes can be moved around indefinitely, instead of just once.
+config.lockers.general.enableStationAutoCrafting=Crafting Station Auto Crafting
+config.lockers.general.enableStationAutoCrafting.tooltip=If enabled, automated systems can pull out of crafting stations and therefore auto-craft items.
+config.lockers.general.stationAutocraftDelay=Auto Crafting Delay
+config.lockers.general.stationAutocraftDelay.tooltip=Delay between recipes being autocrafted in the crafting station, in ticks.
+config.lockers.general.enableHelpTooltips=Tooltips
+config.lockers.general.enableHelpTooltips.tooltip=If enabled, shows tooltips on some items to help players who're new to the mod.
+config.lockers.general.enableWarningMessages=Debug Messages
+config.lockers.general.enableWarningMessages.tooltip=If disabled, prevents certain warning messages from being logged to the console.

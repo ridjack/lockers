@@ -1,0 +1,140 @@
+# Containers
+container.lockers.crafting_station=Crafting Station
+container.lockers.cardboard_box=Cardboard Box
+container.lockers.crate=Storage Crate
+container.lockers.crate.capacity=%% Capacity
+container.lockers.keyring=Keyring
+container.lockers.locker=Locker
+container.lockers.lockerLarge=Large Locker
+container.lockers.reinforced_chest=Reinforced Chest
+container.lockers.reinforced_chest_large=Large Reinforced Chest
+container.lockers.reinforced_locker=Reinforced Locker
+container.lockers.reinforced_locker_large=Large Reinforced Locker
+container.lockers.thaumiumChest=Thaumium Chest
+container.lockers.thaumiumChestLarge=Large Thaumium Chest
+
+# Enchantments
+enchantment.lockers.key.lockpicking=Lockpicking
+enchantment.lockers.key.morphing=Morphing
+enchantment.lockers.key.unlocking=Unlocking
+enchantment.lockers.lock.persistance=Persistance
+enchantment.lockers.lock.security=Security
+enchantment.lockers.lock.shock=Shock
+enchantment.lockers.lock.trigger=Trigger
+
+# Entities
+
+# Items
+item.lockers.bucketSlime.name=Slime in a Bucket
+item.lockers.cardboard_axe.name=Cardboard Axe
+item.lockers.cardboard_boots.name=Cardboard Boots
+item.lockers.cardboard_chestplate.name=Cardboard Chestplate
+item.lockers.cardboard_helmet.name=Cardboard Helmet
+item.lockers.cardboard_hoe.name=Cardboard Hoe
+item.lockers.cardboard_leggings.name=Cardboard Leggings
+item.lockers.cardboard_pickaxe.name=Cardboard Pickaxe
+item.lockers.cardboard_sheet.name=Cardboard Sheet
+item.lockers.cardboard_shovel.name=Cardboard Shovel
+item.lockers.cardboard_sword.name=Cardboard Sword
+item.lockers.drinkingHelmet.name=Drinking Helmet
+item.lockers.key.name=Key
+item.lockers.keyring.name=Keyring
+item.lockers.lock.name=Lock
+item.lockers.master_key.name=Master Key
+
+# Creative tab
+itemGroup.lockers=lockers
+
+# Keys
+key.lockers.drinkingHelmet=[lockers] Use Drinking Helmet
+
+# Container materials
+material.lockers.iron=Iron
+material.lockers.gold=Gold
+material.lockers.diamond=Diamond
+material.lockers.emerald=Emerald
+material.lockers.copper=Copper
+material.lockers.tin=Tin
+material.lockers.silver=Silver
+material.lockers.steel=Steel
+material.lockers.zinc=Zinc
+
+# Thaumcraft
+tc.research_name.lockers.magicstorage=Magical Storage
+tc.research_text.lockers.magicstorage=Enchanting your containers
+
+# Blocks
+tile.lockers.crafting_station.name=Crafting Station
+tile.lockers.cardboard_box.name=Cardboard Box
+tile.lockers.cardboard_box_colored.black.name=Black Cardboard Box
+tile.lockers.cardboard_box_colored.blue.name=Blue Cardboard Box
+tile.lockers.cardboard_box_colored.brown.name=Brown Cardboard Box
+tile.lockers.cardboard_box_colored.cyan.name=Cyan Cardboard Box
+tile.lockers.cardboard_box_colored.gray.name=Gray Cardboard Box
+tile.lockers.cardboard_box_colored.green.name=Green Cardboard Box
+tile.lockers.cardboard_box_colored.lightBlue.name=Light Blue Cardboard Box
+tile.lockers.cardboard_box_colored.lime.name=Lime Cardboard Box
+tile.lockers.cardboard_box_colored.magenta.name=Magenta Cardboard Box
+tile.lockers.cardboard_box_colored.orange.name=Orange Cardboard Box
+tile.lockers.cardboard_box_colored.pink.name=Pink Cardboard Box
+tile.lockers.cardboard_box_colored.purple.name=Purple Cardboard Box
+tile.lockers.cardboard_box_colored.red.name=Red Cardboard Box
+tile.lockers.cardboard_box_colored.silver.name=Light Gray Cardboard Box
+tile.lockers.cardboard_box_colored.white.name=White Cardboard Box
+tile.lockers.cardboard_box_colored.yellow.name=Yellow Cardboard Box
+tile.lockers.crate.name=Storage Crate
+tile.lockers.flintBlock.name=Block of Flint
+tile.lockers.locker.name=Locker
+tile.lockers.reinforced_chest.name=Reinforced Chest
+tile.lockers.reinforced_chest.name.full=Reinforced %s Chest
+tile.lockers.reinforced_locker.name=Reinforced Locker
+tile.lockers.reinforced_locker.name.full=Reinforced %s Locker
+tile.lockers.thaumiumChest.name=Thaumium Chest
+tile.lockers.lockableDoor.name=Locked Iron Door
+tile.lockers.present.name=Present
+
+# Tooltips
+tooltip.lockers.bucketSlime.more.1=1 more effect ...
+tooltip.lockers.bucketSlime.more.x=%X% more effects ...
+tooltip.lockers.cardboardBox.useHint=One-time use portable storage.
+tooltip.lockers.cardboardBox.useHint.reusable=Reusable portable storage.
+tooltip.lockers.cardboardBox.uses=Remaining uses: %s
+tooltip.lockers.cardboardBox.containsItems=Contains items.
+tooltip.lockers.drinkingHelmet.craftHint=Craft with a potion on either side.
+tooltip.lockers.drinkingHelmet.useHint=Press %KEY% to take a sip.
+tooltip.lockers.drinkingHelmet.uses=Remaining uses: %USES%
+
+# Config
+config.lockers.category.item=Items
+config.lockers.category.item.tooltip=Change whether a certain Item is active.
+config.lockers.category.tile=Blocks
+config.lockers.category.tile.tooltip=Change whether a certain Block is active.
+config.lockers.category.enchantment=Enchantments
+config.lockers.category.enchantment.tooltip=Change the IDs for Enchantments
+
+config.lockers.general.reinforcedColumns=Reinforced Columns
+config.lockers.general.reinforcedColumns.tooltip=Number of columns in reinforced chests and lockers. Valid values are 9, 11 and 13.
+config.lockers.general.enableCrateInventoryInterface=Crate Inventory Interface
+config.lockers.general.enableCrateInventoryInterface.tooltip=If enabled, exposes a special block view of crates, so items can be moved in and out by automated systems.
+config.lockers.general.enableCrateStorageInterface=Crate Storage Interface
+config.lockers.general.enableCrateStorageInterface.tooltip=If disabled, prevents mods from using storage crates' special storage interface (like Applied Energistics).
+config.lockers.general.crateDebugMessages=Crate Debug Messages
+config.lockers.general.crateDebugMessages.tooltip=If enabled, logs crate related debug messages (like them saving).
+config.lockers.general.cardboardBoxRows=Cardboard Box Rows
+config.lockers.general.cardboardBoxRows.tooltip=Number of rows in cardboard boxes.
+config.lockers.general.cardboardBoxUses=Cardboard Box Uses
+config.lockers.general.cardboardBoxUses.tooltip=Number of times cardboard boxes can be picked up with items before they break. Use 0 for infinite uses.
+config.lockers.general.cardboardBoxShowContents=Cardboard Box Show Contents
+config.lockers.general.cardboardBoxShowContents.tooltip=If disabled, doesn't show cardboard box contents in their tooltips.
+config.lockers.general.enableStationAutoCrafting=Crafting Station Auto Crafting
+config.lockers.general.enableStationAutoCrafting.tooltip=If enabled, automated systems can pull out of crafting stations and therefore auto-craft items.
+config.lockers.general.stationAutocraftDelay=Auto Crafting Delay
+config.lockers.general.stationAutocraftDelay.tooltip=Delay between recipes being autocrafted in the crafting station, in ticks.
+config.lockers.general.lockBreakable=Breakable Locks
+config.lockers.general.lockBreakable.tooltip=If disabled, turns off the ability to break locks off of locked containers using tools.
+config.lockers.general.enableHelpTooltips=Tooltips
+config.lockers.general.enableHelpTooltips.tooltip=If enabled, shows tooltips on some items to help players who're new to the mod.
+config.lockers.general.enableWarningMessages=Debug Messages
+config.lockers.general.enableWarningMessages.tooltip=If disabled, prevents certain warning messages from being logged to the console.
+config.lockers.general.enableChristmasEvent=Christmas Event
+config.lockers.general.enableChristmasEvent.tooltip=If disabled, prevents the christmas event from happening. You monster.

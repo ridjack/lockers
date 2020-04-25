@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
-Implementation-Title: BetterStorageToo
+Implementation-Title: lockers
 Implementation-Version: 1.15.2-5.0.1.0
 Specification-Vendor: TehStoneMan
-Specification-Title: betterstorage
-Implementation-Timestamp: 2020-04-23T19:28:58-0400
+Specification-Title: lockers
+Implementation-Timestamp: 2020-04-25T14:48:23-0400
 Specification-Version: 1
 Implementation-Vendor: TehStoneMan
 

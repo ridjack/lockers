@@ -12,8 +12,8 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-archivesBaseName = "BetterStorageToo"
-group = "io.github.thestoneman.betterstorage"
+archivesBaseName = "lockers"
+group = "github.ridjack.lockers"
 version = "$minecraft_version-$version_major.$version_api.$version_minor.$version_patch"
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
@@ -53,7 +53,7 @@ minecraft {
             property 'forge.logging.console.level', 'debug'
 
             mods {
-                betterstorage { source sourceSets.main }
+                lockers { source sourceSets.main }
             }
         }
 
@@ -67,7 +67,7 @@ minecraft {
             property 'forge.logging.console.level', 'debug'
 
             mods {
-                betterstorage { source sourceSets.main }
+                lockers { source sourceSets.main }
             }
         }
 
@@ -83,7 +83,7 @@ minecraft {
             args '--mod', 'examplemod', '--all', '--output', file('src/generated/resources/')
 
             mods {
-                betterstorage { source sourceSets.main }
+                lockers { source sourceSets.main }
             }
         }
     }
@@ -193,7 +193,7 @@ processResources {
 jar {
     manifest {
         attributes ([
-            "Specification-Title": "betterstorage",
+            "Specification-Title": "lockers",
             "Specification-Vendor": "TehStoneMan",
             "Specification-Version": "1", // We are version 1 of ourselves
             "Implementation-Title": project.name,

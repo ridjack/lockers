@@ -1,0 +1,143 @@
+# Containers
+container.lockers.craftingStation=合成站
+container.lockers.backpack=背包
+container.lockers.cardboardBox=紙箱
+container.lockers.crate=倉儲貨箱
+container.lockers.enderBackpack=末影背包
+container.lockers.keyring=鑰匙鏈
+container.lockers.locker=柜子
+container.lockers.lockerLarge=大型柜子
+container.lockers.reinforcedChest=強化箱子
+container.lockers.reinforcedChestLarge=大型強化箱子
+container.lockers.reinforcedLocker=強化柜子
+container.lockers.reinforcedLockerLarge=大型強化柜子
+container.lockers.thaumcraftBackpack=神秘使背包
+container.lockers.thaumiumChest=神秘箱子
+container.lockers.thaumiumChestLarge=大型神秘箱子
+
+# Enchantments
+enchantment.lockers.key.lockpicking=撬鎖鑰匙
+enchantment.lockers.key.morphing=匙齒變形
+enchantment.lockers.key.unlocking=解鎖鑰匙
+enchantment.lockers.lock.persistance=防爆鎖
+enchantment.lockers.lock.security=安全鎖
+enchantment.lockers.lock.shock=電擊鎖
+enchantment.lockers.lock.trigger=報信鎖
+
+# Entities
+entity.lockers.Frienderman.name=末影人
+
+# Items
+item.lockers.bucketSlime.name=桶中史萊姆
+item.lockers.cardboardAxe.name=紙板斧
+item.lockers.cardboardBoots.name=紙盒靴
+item.lockers.cardboardChestplate.name=紙盒胸甲
+item.lockers.cardboardHelmet.name=紙盒頭盔
+item.lockers.cardboardHoe.name=紙板鋤
+item.lockers.cardboardLeggings.name=紙盒護腿
+item.lockers.cardboardPickaxe.name=紙板稿
+item.lockers.cardboardSheet.name=紙箱板
+item.lockers.cardboardShovel.name=紙板鏟
+item.lockers.cardboardSword.name=紙板劍
+item.lockers.drinkingHelmet.name=嗜飲頭盔
+item.lockers.key.name=鑰匙
+item.lockers.keyring.name=鑰匙鏈
+item.lockers.lock.name=鎖
+item.lockers.masterKey.name=萬能鑰匙
+
+# Creative tab
+itemGroup.lockers=更好存儲
+
+# Keys
+key.lockers.backpackOpen=[更好存儲] 打開背包
+key.lockers.drinkingHelmet=[更好存儲] 使用嗜飲頭盔
+
+# Container materials
+material.lockers.iron=鐵
+material.lockers.gold=金
+material.lockers.diamond=鉆石
+material.lockers.emerald=綠寶石
+material.lockers.copper=銅
+material.lockers.tin=錫
+material.lockers.silver=銀
+material.lockers.steel=鋼
+material.lockers.zinc=鋅
+
+# Thaumcraft
+tc.research_name.lockers.magicstorage=魔力存儲
+tc.research_text.lockers.magicstorage=附魔你的儲物容器
+tc.research_page.lockers.magicstorage.1=用自然屬性的魔力和材料對背包注魔能增加背包的耐用性以及容量.被施加過修復附魔的物品即使裝入這個背包也能回復耐久,雖然會比正常回復速度稍慢.<BR>用神秘錠改造的神秘箱子具有類似功能,你將得到了一個可以容納更多物品也更加耐用的箱子.
+
+# Blocks
+tile.lockers.craftingStation.name=合成站
+tile.lockers.armorStand.name=裝備架
+tile.lockers.backpack.cantEquip.backpack=你已經背著背包了
+tile.lockers.backpack.cantEquip.chestplate=穿著胸甲的時候背不了背包
+tile.lockers.backpack.name=背包
+tile.lockers.cardboardBox.name=紙箱
+tile.lockers.crate.name=貨箱
+tile.lockers.enderBackpack.name=末影背包
+tile.lockers.flintBlock.name=燧石塊
+tile.lockers.locker.name=柜子
+tile.lockers.reinforcedChest.name=強化箱子
+tile.lockers.reinforcedChest.name.full=強化%MATERIAL%箱子
+tile.lockers.reinforcedLocker.name=強化柜子
+tile.lockers.reinforcedLocker.name.full=強化%MATERIAL%柜子
+tile.lockers.thaumcraftBackpack.name=神秘使背包
+tile.lockers.thaumiumChest.name=神秘箱子
+
+# Tooltips
+tooltip.lockers.backpack.bound=用以綁定背包.
+tooltip.lockers.backpack.containsItems=用以容納物品.
+tooltip.lockers.backpack.equipHint=放置狀態下按住潛行#然后打掉就能裝備上.
+tooltip.lockers.backpack.equipHint.extended=潛行打掉就能裝備.#空手時潛行右擊地面#就能將其脫下.
+tooltip.lockers.backpack.openHint=裝備時按住%KEY%打開背包界面.
+tooltip.lockers.backpack.unequipHint=空手情況下對著空地按住潛行#并右擊地面來卸下背包.
+tooltip.lockers.backpack.unequipHint.extended=%INFO%空手情況下對著空地按住潛行#并右擊地面來卸下背包.
+tooltip.lockers.backpack.used=背包當前正在被玩家翻開.
+tooltip.lockers.bucketSlime.more.1=能再添加1個效果...
+tooltip.lockers.bucketSlime.more.x=能再添加%X%個效果...
+tooltip.lockers.cardboardBox.more.1=能再添加1個物品...
+tooltip.lockers.cardboardBox.more.x=能再添加%X%個物品...
+tooltip.lockers.cardboardBox.useHint=一次性可攜帶存儲工具.
+tooltip.lockers.cardboardBox.useHint.reusable=可以重復使用的存儲工具.
+tooltip.lockers.drinkingHelmet.craftHint=與兩瓶藥水合成.
+tooltip.lockers.drinkingHelmet.useHint=按下%KEY%小啜一口.
+tooltip.lockers.drinkingHelmet.uses=剩余次數: %USES%
+
+# Config
+config.lockers.category.item=物品
+config.lockers.category.item.tooltip=切換某種物品是否激活.
+config.lockers.category.tile=方塊
+config.lockers.category.tile.tooltip=切換某種方塊是否激活.
+config.lockers.category.enchantment=附魔
+config.lockers.category.enchantment.tooltip=變更附魔id
+
+config.lockers.general.reinforcedColumns=高級箱子列數
+config.lockers.general.reinforcedColumns.tooltip=強化箱子和柜子界面內物品欄的列數,有效值包括9,11和13.
+config.lockers.general.enableCrateInventoryInterface倉儲貨箱物品欄界面
+config.lockers.general.enableCrateInventoryInterface.tooltip=激活后會顯露出一個特殊觀察方塊,通過它能夠實現自動輸入輸出物品.
+config.lockers.general.enableCrateStorageInterface=倉儲貨箱儲物界面
+config.lockers.general.enableCrateStorageInterface.tooltip=禁用后阻止模組(比如AE)使用倉儲貨箱.
+config.lockers.general.backpackChestplate=背包護甲
+config.lockers.general.backpackChestplate.tooltip=停用後背包將不占用裝備欄.
+config.lockers.general.backpackRows=背包行數
+config.lockers.general.backpackRows.tooltip=背包內物品欄的行數.
+config.lockers.general.enableBackpackOpen=背包開啟
+config.lockers.general.enableBackpackOpen.tooltip=允許按下A鍵開啟已裝備背包的物品欄界面.
+config.lockers.general.enableBackpackInteraction=背包互動
+config.lockers.general.enableBackpackInteraction.tooltip=允許其他玩家右擊打開背包.
+config.lockers.general.dropBackpackOnDeath=背包掉落
+config.lockers.general.dropBackpackOnDeath.tooltip=啟用後掉落的背包將視為容器方塊,而不會暴出一地物品.
+config.lockers.general.cardboardBoxRows=紙箱行數
+config.lockers.general.cardboardBoxRows.tooltip=紙箱內物品欄行數
+config.lockers.general.cardboardBoxReusable=紙箱重復使用
+config.lockers.general.cardboardBoxReusable.tooltip=激活后紙箱可以無限使用而不再是一次性消耗品.
+config.lockers.general.enableStationAutoCrafting=合成站自動合成
+config.lockers.general.enableStationAutoCrafting.tooltip=激活后可以連接自動化系統實現自動合成物品.
+config.lockers.general.stationAutocraftDelay=自動合成延遲
+config.lockers.general.stationAutocraftDelay.tooltip=合成站中兩次合成之間所需的冷卻時間,單位為ticks.
+config.lockers.general.enableHelpTooltips=提示
+config.lockers.general.enableHelpTooltips.tooltip=啟用後在物品下顯示信息幫助新玩家了解用法.
+config.lockers.general.enableWarningMessages=調試信息
+config.lockers.general.enableWarningMessages.tooltip=激活后禁止某些信息顯示到控制臺中.

@@ -1,0 +1,153 @@
+# Containers
+container.lockers.craftingStation=Estação de Construção
+container.lockers.backpack=Mochila
+container.lockers.cardboardBox=Caixa de Papelão
+container.lockers.crate=Caixote
+container.lockers.enderBackpack=Mochila do ´Ender´
+container.lockers.keyring=Chaveiro
+container.lockers.locker=Armário
+container.lockers.lockerLarge=Armário Grande
+container.lockers.reinforcedChest=Baú Reforçado
+container.lockers.reinforcedChestLarge=Baú Grande Reforçado
+container.lockers.reinforcedLocker=Armário Reforçado
+container.lockers.reinforcedLockerLarge=Armário Grande Reforçado
+container.lockers.thaumcraftBackpack=Mochila do Thaumaturgo
+container.lockers.thaumiumChest=Baú de Thaumium
+container.lockers.thaumiumChestLarge=Baú Grande de Thaumium
+
+# Enchantments
+enchantment.lockers.key.lockpicking=Abre Tranca
+enchantment.lockers.key.morphing=Modelador
+enchantment.lockers.key.unlocking=Destravar
+enchantment.lockers.lock.persistance=Persistência
+enchantment.lockers.lock.security=Segurança
+enchantment.lockers.lock.shock=Choque
+enchantment.lockers.lock.trigger=Gatilho
+
+# Entities
+entity.lockers.Frienderman.name=Enderman
+
+# Items
+item.lockers.bucketSlime.name=Gosma em um Balde
+item.lockers.cardboardAxe.name=Machado de Papelão
+item.lockers.cardboardBoots.name=Botas de Papelão
+item.lockers.cardboardChestplate.name=Peitoral de Papelão
+item.lockers.cardboardHelmet.name=Elmo de Papelão
+item.lockers.cardboardHoe.name=Pá de Papelão
+item.lockers.cardboardLeggings.name=Calças de Papelão
+item.lockers.cardboardPickaxe.name=Picareta de Papelão
+item.lockers.cardboardSheet.name=Folha de Papelão
+item.lockers.cardboardShovel.name=Enxada de Papelão
+item.lockers.cardboardSword.name=Espada de Papelão
+item.lockers.drinkingHelmet.name=Capacete de Beber
+item.lockers.key.name=Chave
+item.lockers.keyring.name=Chaveiro
+item.lockers.lock.name=Cadeado
+item.lockers.masterKey.name=Chave Mestra
+
+# Creative tab
+itemGroup.lockers=lockers
+
+# Keys
+key.lockers.backpackOpen=[lockers] Abrir Mochila
+key.lockers.drinkingHelmet=[lockers] Usar Capacete de Beber
+
+# Container materials
+material.lockers.iron=Ferro
+material.lockers.gold=Ouro
+material.lockers.diamond=Diamante
+material.lockers.emerald=Esmeralda
+material.lockers.copper=Cobre
+material.lockers.tin=Estanho
+material.lockers.silver=Prata
+material.lockers.steel=Aço
+material.lockers.zinc=Zinco
+
+# Thaumcraft
+tc.research_name.lockers.magicstorage=Depósito Mágico
+tc.research_text.lockers.magicstorage=Encantando seus depósitos
+tc.research_page.lockers.magicstorage.1=A infusão de uma mochila com magia e materiais de natureza mágica vai aumentar sua capacidade total de armazenamento, durabilidade e encantabilidade. Mesmo gastos, os itens armazenados ainda serão capazes de se reparar, embora muito mais lentamente, a não ser que a própria mochila também tenha o encantamento de reparação. <BR>Também é possível colocar em um baú de ferro reforçado um monte de thaumium, o que resultará em uma caixa ainda mais durável que também pode armazenar mais itens.
+
+# Blocks
+tile.lockers.craftingStation.name=Estação de Construção
+tile.lockers.armorStand.name=Suporte de Armadura
+tile.lockers.backpack.cantEquip.backpack=Você já está equipado com uma mochila
+tile.lockers.backpack.cantEquip.chestplate=Você não pode equipar uma mochila enquanto usa um peitoral
+tile.lockers.backpack.name=Mochila
+tile.lockers.cardboardBox.name=Caixa de Papelão
+tile.lockers.crate.name=Caixote
+tile.lockers.enderBackpack.name=Mochila do ´Ender´
+tile.lockers.flintBlock.name=Bloco de Pederneira
+tile.lockers.locker.name=Armário
+tile.lockers.reinforcedChest.name=Baú Reforçado
+tile.lockers.reinforcedChest.name.full=Baú Reforçado de %MATERIAL%
+tile.lockers.reinforcedLocker.name=Armário Reforçado
+tile.lockers.reinforcedLocker.name.full=Armário Grande Reforçado de %MATERIAL%
+tile.lockers.thaumcraftBackpack.name=Mochila do Thaumaturgo
+tile.lockers.thaumiumChest.name=Baú de Thaumium
+tile.lockers.lockableDoor.name=Porta de Ferro com Cadeado
+tile.lockers.present.name=Presente
+
+# Tooltips
+tooltip.lockers.backpack.bound=Mochila equipada.
+tooltip.lockers.backpack.containsItems=Contém itens.
+tooltip.lockers.backpack.equipHint=Esgueirar e quebrar para equipar-se.
+tooltip.lockers.backpack.equipHint.extended=Esgueirar e quebrar para equipar#Esgueire e clique direito no chão#com a mão vazia para desequipar.
+tooltip.lockers.backpack.openHint=Pressione %KEY% para abrir quando equipado.
+tooltip.lockers.backpack.unequipHint=Esgueirar e clique direito#com a mão vazia no chão para desequipar.
+tooltip.lockers.backpack.unequipHint.extended=%INFO% Esgueirar e clique direito#com a mão vazia no chão para desequipar.
+tooltip.lockers.backpack.used=Atualmente está sendo usado por um jogador.
+tooltip.lockers.bucketSlime.more.1=Mais 1 efeito...
+tooltip.lockers.bucketSlime.more.x=Mais %X% efeitos...
+tooltip.lockers.cardboardBox.useHint=Armazenamento portátil descartável.
+tooltip.lockers.cardboardBox.useHint.reusable=Armazenamento portátil reutilizável.
+tooltip.lockers.cardboardBox.uses=Usos Restantes: %USES%
+tooltip.lockers.cardboardBox.containsItems=Contém itens.
+tooltip.lockers.drinkingHelmet.craftHint=Coloque uma porção em cada lado do capacete...
+tooltip.lockers.drinkingHelmet.useHint=Pressione %KEY% para tomar um gole.
+tooltip.lockers.drinkingHelmet.uses=Usos Restantes: %USES%
+
+# Config
+config.lockers.category.item=Itens
+config.lockers.category.item.tooltip=Mudar se um determinado item está ativo.
+config.lockers.category.tile=Blocos
+config.lockers.category.tile.tooltip=Mudar se um determinado bloco está ativo.
+config.lockers.category.enchantment=Encantamentos
+config.lockers.category.enchantment.tooltip=Mudar os IDs dos encantamentos
+
+config.lockers.general.reinforcedColumns=Colunas Reforçadas
+config.lockers.general.reinforcedColumns.tooltip=Número de colunas em baús e armários reforçados. Os valores válidos são 9, 11 e 13.
+config.lockers.general.enableCrateInventoryInterface=Interface do Inventário do Caixote
+config.lockers.general.enableCrateInventoryInterface.tooltip=Se ativado, habilita um função especial nos blocos de armazenamento, para que os itens possão ser manipulados por sistemas automatizados.
+config.lockers.general.enableCrateStorageInterface=Interface de Estocagem do Caixote
+config.lockers.general.enableCrateStorageInterface.tooltip=Se desativado, impede os mods de usar a interface de armazenamento especial (tipo ´Applied Energistics´).
+config.lockers.general.crateDebugMessages=Mensagens de Depuração dos Caixotes
+config.lockers.general.crateDebugMessages.tooltip=Se ativado, registra as mensagens de depuração relacionadas aos caixotes (like them saving).
+config.lockers.general.backpackChestplate=Mochila no Peitoral
+config.lockers.general.backpackChestplate.tooltip=Se desativado, mochilas não ocupam o slot do peitoral do jogador.
+config.lockers.general.backpackRows=Linhas da Mochila
+config.lockers.general.backpackRows.tooltip=Número de linhas na mochila.
+config.lockers.general.enableBackpackOpen=Mochila Aberta
+config.lockers.general.enableBackpackOpen.tooltip=Permite que a mochila equipada seja aberta pressionando uma tecla.
+config.lockers.general.enableBackpackInteraction=Mochila com Interação
+config.lockers.general.enableBackpackInteraction.tooltip=Permite mochilas equipadas sejam abertas por outros jogadores quando clicadas por eles com o botão direito.
+config.lockers.general.dropBackpackOnDeath=Soltar Mochila
+config.lockers.general.dropBackpackOnDeath.tooltip=Se ativado, solta a mochila com um bloco.
+config.lockers.general.cardboardBoxRows=Linhas da Caixa de Papelão
+config.lockers.general.cardboardBoxRows.tooltip=Número de linhas das caixas de papelão.
+config.lockers.general.cardboardBoxUses=Usos da Caixa de Papelão
+config.lockers.general.cardboardBoxUses.tooltip=Número de vezes que as as caixas de papelão podem ser usadas antes de ´rasgar´. Use 0 para infinitas utilizações.
+config.lockers.general.cardboardBoxShowContents=Exibir Conteúdo da Caixa de Papelão
+config.lockers.general.cardboardBoxShowContents.tooltip=Se desativado, não mostrar conteúdo da caixa de papelão nas dicas.
+config.lockers.general.enableStationAutoCrafting=Estação de Construção Automática
+config.lockers.general.enableStationAutoCrafting.tooltip=Se ativado, sistemas automatizados podem retirar das estações de construção e, portanto, criar itens automaticamente.
+config.lockers.general.stationAutocraftDelay=Atraso da Construção Automática
+config.lockers.general.stationAutocraftDelay.tooltip=Atraso, em ticks, entre as receitas que estão sendo automatizadas na estação de construção.
+config.lockers.general.lockBreakable=Cadeados Quebráveis
+config.lockers.general.lockBreakable.tooltip=Se desativado, desliga a habilidade de quebrar cadeados das caixas usando ferramentas.
+config.lockers.general.enableHelpTooltips=Dicas
+config.lockers.general.enableHelpTooltips.tooltip=Se ativado, mostra dicas sobre alguns itens para ajudar os jogadores novatos do mod.
+config.lockers.general.enableWarningMessages=Mensagens de Depuração
+config.lockers.general.enableWarningMessages.tooltip=Se desativado, impede que certas mensagens de aviso sejam registradas no console.
+config.lockers.general.enableChristmasEvent=Evento de Natalino
+config.lockers.general.enableChristmasEvent.tooltip=Se desativado, impede que o Natal aconteça. Você é um monstro.

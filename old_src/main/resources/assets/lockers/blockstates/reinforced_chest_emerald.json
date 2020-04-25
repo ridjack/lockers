@@ -1,0 +1,14 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"model": "lockers:chest.obj",
+		"custom": { "flip-v": true },
+		"textures": { "#chest": "lockers:models/chest/emerald" }
+	},
+	"variants":
+	{
+		"normal": [{}],
+		"inventory": [{ "transform": "forge:default-block" }]
+	}
+}

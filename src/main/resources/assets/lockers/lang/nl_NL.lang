@@ -1,0 +1,69 @@
+# Containers
+container.lockers.backpack=Rugzak
+container.lockers.cardboardBox=Kartonnen Doos
+container.lockers.crate=Opbergkist
+container.lockers.enderBackpack=Ender Rugzak
+container.lockers.keyring=Sleutelring
+container.lockers.locker=Locker
+container.lockers.lockerLarge=Grote Locker
+container.lockers.reinforcedChest=Verstevigde Kist
+container.lockers.reinforcedChestLarge=Grote Verstevigde Kist
+container.lockers.thaumcraftBackpack=Thaumaturge's Rugzak
+container.lockers.thaumiumChest=Thaumium Kist
+container.lockers.thaumiumChestLarge=Grote Thaumium Kist
+
+# Enchantments
+enchantment.lockers.key.lockpicking=Slot Openen
+enchantment.lockers.key.morphing=Transformeren
+enchantment.lockers.key.unlocking=Openen
+enchantment.lockers.lock.persistance=Persistentie
+enchantment.lockers.lock.security=Beveiliging
+enchantment.lockers.lock.shock=Schok
+enchantment.lockers.lock.trigger=Activeer
+
+# Entities
+entity.lockers.Frienderman.name=Enderman
+
+# Items
+item.lockers.cardboardSheet.name=Kartonnen Doos Stuk
+item.lockers.drinkingHelmet.name=Drink Helm
+item.lockers.key.name=Sleutel
+item.lockers.keyring.name=Sleutelring
+item.lockers.lock.name=Slot
+item.lockers.masterKey.name=Meester Sleutel
+
+# Creative tab
+itemGroup.lockers=lockers
+
+# Container materials
+material.lockers.iron=Ijzer
+material.lockers.gold=Goud
+material.lockers.diamond=Diamant
+material.lockers.emerald=Smaragd
+material.lockers.copper=Koper
+material.lockers.tin=Tin
+material.lockers.silver=Silver
+material.lockers.zinc=Zink
+
+# Blocks
+tile.lockers.armorStand.name=Harnass Mannequin
+tile.lockers.backpack.name=Rugzak
+tile.lockers.cardboardBox.name=Kartonnen Doos
+tile.lockers.crate.name=Opbergkist
+tile.lockers.enderBackpack.name=Ender Rugzak
+tile.lockers.locker.name=Locker
+tile.lockers.reinforcedChest.name=Verstevigde Kist
+tile.lockers.reinforcedChest.name.full=Verstevigde %MATERIAL% Chest
+tile.lockers.thaumcraftBackpack.name=Thaumaturge's Rugzak
+tile.lockers.thaumiumChest.name=Thaumium Kist
+
+# Tooltips
+tooltip.lockers.backpack.bound=Gebonden rugzak.
+tooltip.lockers.backpack.containsItems=Bevat voorwerpen.
+tooltip.lockers.backpack.equipHint=Plaats neer en breek het terwijl#je sluipt om het aan te doen.
+tooltip.lockers.backpack.openHint=Druk op %KEY% terwijl uitgerust.
+tooltip.lockers.backpack.unequipHint=Sluip en rechtsklik de grond met#een lege hand om het uit te doen.
+tooltip.lockers.backpack.unequipHint.extended=%INFO% Sluip en rechtsklik de#grond met een lege hand om het uit te doen.
+tooltip.lockers.backpack.used=Wordt momenteel gebruikt door een andere speler.
+tooltip.lockers.drinkingHelmet.useHint=Druk op %KEY% om het te drinken.
+tooltip.lockers.drinkingHelmet.uses=Overblijvende gebruiken: %USES%

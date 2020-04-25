@@ -1,0 +1,124 @@
+# Containers
+container.lockers.cardboard_box=Cardboard Box
+container.lockers.crate.capacity=%% Capacity
+container.lockers.crate=Storage Crate
+container.lockers.keyring=Keyring
+container.lockers.locker=Locker
+container.lockers.locker_large=Large Locker
+container.lockers.reinforced_chest=Reinforced Chest
+container.lockers.reinforced_chest_large=Large Reinforced Chest
+container.lockers.reinforced_locker=Reinforced Locker
+container.lockers.reinforced_locker_large=Large Reinforced Locker
+
+# Enchantments
+enchantment.lockers.key.lockpicking=Lockpicking
+enchantment.lockers.key.lockpicking.tooltip=Enable or disable lockpicking enchantment.
+enchantment.lockers.key.morphing=Morphing
+enchantment.lockers.key.morphing.tooltip=Enable or disable morphing enchantment.
+enchantment.lockers.key.unlocking=Unlocking
+enchantment.lockers.key.unlocking.tooltip=Enable or disable unlocking enchantment.
+enchantment.lockers.lock.persistance=Persistance
+enchantment.lockers.lock.persistance.tooltip=Enable or disable persistance enchantment.
+enchantment.lockers.lock.security=Security
+enchantment.lockers.lock.security.tooltip=Enable or disable security enchantment.
+enchantment.lockers.lock.shock=Shock
+enchantment.lockers.lock.shock.tooltip=Enable or disable shock enchantment.
+enchantment.lockers.lock.trigger=Trigger
+enchantment.lockers.lock.trigger.tooltip=Enable or disable trigger enchantment.
+
+# Creative tab
+itemGroup.lockers=Better Storage Too
+
+# Container materials
+material.lockers.copper=Copper
+material.lockers.diamond=Diamond
+material.lockers.emerald=Emerald
+material.lockers.gold=Gold
+material.lockers.iron=Iron
+material.lockers.silver=Silver
+material.lockers.steel=Steel
+material.lockers.tin=Tin
+material.lockers.zinc=Zinc
+
+# Blocks
+tile.lockers.cardboard_box.name=Cardboard Box
+tile.lockers.cardboard_box.name.tooltip=Enable or disable cardboard boxes.
+tile.lockers.crate.name=Storage Crate
+tile.lockers.crate.name.tooltip=Enable or disable storage crates.
+tile.lockers.flint_block.name=Block of Flint
+tile.lockers.flint_block.name.tooltip=Enable or disable block of flint.
+tile.lockers.lockable_door.name=Locked Iron Door
+tile.lockers.lockable_door.name.tooltip=Enable or disable lockable doors.\n(Requires keys enabled)
+tile.lockers.locker.name=Locker
+tile.lockers.locker.name.tooltip=Enable or disable lockers.
+tile.lockers.reinforced_chest.name=Reinforced Chest
+tile.lockers.reinforced_chest.name.full=Reinforced %s Chest
+tile.lockers.reinforced_chest.name.tooltip=Enable or disable reinforced chests.
+tile.lockers.reinforced_locker.name=Reinforced Locker
+tile.lockers.reinforced_locker.name.full=Reinforced %s Locker
+tile.lockers.reinforced_locker.name.tooltip=Enable or disable reinforced lockers.\n(No effect if lockers are disabled)
+
+# Items
+item.lockers.bucket.slime.name=Slime in a Bucket
+item.lockers.bucket.slime.name.tooltip=Enable or disable slime buckets.
+item.lockers.cardboard_axe.name=Cardboard Axe
+item.lockers.cardboard_axe.name.tooltip=Enable or disable cardboard axe.
+item.lockers.cardboard_boots.name=Cardboard Boots
+item.lockers.cardboard_boots.name.tooltip=Enable or disable cardboard boots.
+item.lockers.cardboard_chestplate.name=Cardboard Chestplate
+item.lockers.cardboard_chestplate.name.tooltip=Enable or disable cardboard chestplate.
+item.lockers.cardboard_helmet.name=Cardboard Helmet
+item.lockers.cardboard_helmet.name.tooltip=Enable or disable cardboard helmet.
+item.lockers.cardboard_hoe.name=Cardboard Hoe
+item.lockers.cardboard_hoe.name.tooltip=Enable or disable cardboard hoe.
+item.lockers.cardboard_leggings.name=Cardboard Leggings
+item.lockers.cardboard_leggings.name.tooltip=Enable or disable cardboard leggings.
+item.lockers.cardboard_pickaxe.name=Cardboard Pickaxe
+item.lockers.cardboard_pickaxe.name.tooltip=Enable or disable cardboard pickaxe.
+item.lockers.cardboard_sheet.name=Cardboard Sheet
+item.lockers.cardboard_sheet.name.tooltip=Enable or disable cardboard sheets.
+item.lockers.cardboard_shovel.name=Cardboard Shovel
+item.lockers.cardboard_shovel.name.tooltip=Enable or disable cardboard shovel.
+item.lockers.cardboard_sword.name=Cardboard Sword
+item.lockers.cardboard_sword.name.tooltip=Enable or disable cardboard sword.
+item.lockers.key.name=Key
+item.lockers.key.name.tooltip=Enable or disable keys.
+item.lockers.keyring.name=Keyring
+item.lockers.keyring.name.tooltip=Enable or disable keyrings.\n(Requires keys enabled)
+item.lockers.lock.name=Lock
+item.lockers.lock.name.tooltip=Enable or disable locks.\n(Requires keys enabled)
+item.lockers.master_key.name=Master Key
+item.lockers.master_key.name.tooltip=Enable or disable master key.\n(Requires keys enabled)
+
+# Tooltips
+tooltip.lockers.bucket.slime.contains=Contains: %s
+tooltip.lockers.cardboardBox.containsItems=Contains items.
+tooltip.lockers.cardboardBox.plusMore=... Plus %s more.
+tooltip.lockers.cardboardBox.useHint.reusable=Reusable portable storage.
+tooltip.lockers.cardboardBox.useHint=One-time use portable storage.
+tooltip.lockers.cardboardBox.uses=Remaining uses: %s
+
+# Config
+config.lockers.category.block=Blocks
+config.lockers.category.block.tooltip=Change whether a certain Block is active.
+config.lockers.category.item=Items
+config.lockers.category.item.tooltip=Change whether a certain Item is active.
+config.lockers.category.enchantment=Enchantments
+config.lockers.category.enchantment.tooltip=Change whether a certain Enchantment is active.
+
+config.lockers.general.cardboardBoxRows=Cardboard Box Rows
+config.lockers.general.cardboardBoxRows.tooltip=Number of rows in cardboard boxes.
+config.lockers.general.cardboardBoxShowContents=Cardboard Box Show Contents
+config.lockers.general.cardboardBoxShowContents.tooltip=If disabled, doesn't show cardboard box contents in their tooltips.
+config.lockers.general.cardboardBoxUses=Cardboard Box Uses
+config.lockers.general.cardboardBoxUses.tooltip=Number of times cardboard boxes can be picked up with items before they break. Use 0 for infinite uses.
+config.lockers.general.enableCrateInventoryInterface=Crate Inventory Interface
+config.lockers.general.enableCrateInventoryInterface.tooltip=If enabled, exposes a special block view of crates, so items can be moved in and out by automated systems.
+config.lockers.general.enableHelpTooltips=Tooltips
+config.lockers.general.enableHelpTooltips.tooltip=If enabled, shows tooltips on some items to help players who're new to the mod.
+config.lockers.general.enableWarningMessages=Debug Messages
+config.lockers.general.enableWarningMessages.tooltip=If disabled, prevents certain warning messages from being logged to the console.
+config.lockers.general.lockBreakable=Breakable Locks
+config.lockers.general.lockBreakable.tooltip=If disabled, turns off the ability to break locks off of locked containers using tools.
+config.lockers.general.reinforcedColumns=Reinforced Columns
+config.lockers.general.reinforcedColumns.tooltip=Number of columns in reinforced chests and lockers. Valid values are 9, 11 and 13.
