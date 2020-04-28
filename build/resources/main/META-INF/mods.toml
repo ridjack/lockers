@@ -4,7 +4,7 @@ issueTrackerURL="https://github.com/TehStoneMan/lockersToo/issues"
 
 [[mods]]
 modId="lockers"
-version="1.15.2-5.0.1.0"
+version="1.0"
 displayName="Lockers"
 updateJSONURL="https://github.com/ridjack/lockers"
 displayURL="https://github.com/ridjack/lockers"
